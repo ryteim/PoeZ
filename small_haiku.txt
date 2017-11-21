@@ -1,0 +1,177 @@
+balmy,balmy breeze ,swarming, swarming bees circle ,river, the river bank
+balmy,balmy breeze ,swarming, swarming bees circle ,bank, the river bank
+balmy,balmy breeze ,bees, swarming bees circle ,river, the river bank
+balmy,balmy breeze ,bees, swarming bees circle ,bank, the river bank
+balmy,balmy breeze ,circle, swarming bees circle ,river, the river bank
+balmy,balmy breeze ,circle, swarming bees circle ,bank, the river bank
+breeze,balmy breeze ,swarming, swarming bees circle ,river, the river bank
+breeze,balmy breeze ,swarming, swarming bees circle ,bank, the river bank
+breeze,balmy breeze ,bees, swarming bees circle ,river, the river bank
+breeze,balmy breeze ,bees, swarming bees circle ,bank, the river bank
+breeze,balmy breeze ,circle, swarming bees circle ,river, the river bank
+breeze,balmy breeze ,circle, swarming bees circle ,bank, the river bank
+trill,siskins' trill ,sunlight, sunlight floods ,bare, the bare larch
+trill,siskins' trill ,sunlight, sunlight floods ,larch, the bare larch
+drifting,drifting fog ,acquaintance, an acquaintance ,rather, i'd rather not meet
+drifting,drifting fog ,acquaintance, an acquaintance ,meet, i'd rather not meet
+fog,drifting fog ,acquaintance, an acquaintance ,rather, i'd rather not meet
+fog,drifting fog ,acquaintance, an acquaintance ,meet, i'd rather not meet
+frost,frost lingers ,clean, i clean brussels sprouts ,kitchen, in the kitchen sink
+frost,frost lingers ,clean, i clean brussels sprouts ,sink, in the kitchen sink
+frost,frost lingers ,brussels, i clean brussels sprouts ,kitchen, in the kitchen sink
+frost,frost lingers ,brussels, i clean brussels sprouts ,sink, in the kitchen sink
+small,the small cabin ,one, one room ,sauna, and a sauna
+small,the small cabin ,room, one room ,sauna, and a sauna
+cabin,the small cabin ,one, one room ,sauna, and a sauna
+cabin,the small cabin ,room, one room ,sauna, and a sauna
+summer,summer's day ,dad, a dad shows his son ,grandpa, grandpa's work
+summer,summer's day ,dad, a dad shows his son ,work, grandpa's work
+summer,summer's day ,son, a dad shows his son ,grandpa, grandpa's work
+summer,summer's day ,son, a dad shows his son ,work, grandpa's work
+day,summer's day ,dad, a dad shows his son ,grandpa, grandpa's work
+day,summer's day ,dad, a dad shows his son ,work, grandpa's work
+day,summer's day ,son, a dad shows his son ,grandpa, grandpa's work
+day,summer's day ,son, a dad shows his son ,work, grandpa's work
+soft,soft breeze ,gentle, the gentle hum ,beehive, of a beehive
+soft,soft breeze ,hum, the gentle hum ,beehive, of a beehive
+breeze,soft breeze ,gentle, the gentle hum ,beehive, of a beehive
+breeze,soft breeze ,hum, the gentle hum ,beehive, of a beehive
+dance,dance studio ,crack, a crack in the mirror glued ,paper, with paper hearts
+dance,dance studio ,crack, a crack in the mirror glued ,hearts, with paper hearts
+dance,dance studio ,mirror, a crack in the mirror glued ,paper, with paper hearts
+dance,dance studio ,mirror, a crack in the mirror glued ,hearts, with paper hearts
+dance,dance studio ,glued, a crack in the mirror glued ,paper, with paper hearts
+dance,dance studio ,glued, a crack in the mirror glued ,hearts, with paper hearts
+studio,dance studio ,crack, a crack in the mirror glued ,paper, with paper hearts
+studio,dance studio ,crack, a crack in the mirror glued ,hearts, with paper hearts
+studio,dance studio ,mirror, a crack in the mirror glued ,paper, with paper hearts
+studio,dance studio ,mirror, a crack in the mirror glued ,hearts, with paper hearts
+studio,dance studio ,glued, a crack in the mirror glued ,paper, with paper hearts
+studio,dance studio ,glued, a crack in the mirror glued ,hearts, with paper hearts
+ear,my ear conch ,ear, to your ear conch ,sea, sounds of the sea
+ear,my ear conch ,conch, to your ear conch ,sea, sounds of the sea
+conch,my ear conch ,ear, to your ear conch ,sea, sounds of the sea
+conch,my ear conch ,conch, to your ear conch ,sea, sounds of the sea
+sunny,sunny noon ,scooter, a wheel-less scooter ,pub, at the pub door
+sunny,sunny noon ,scooter, a wheel-less scooter ,door, at the pub door
+noon,sunny noon ,scooter, a wheel-less scooter ,pub, at the pub door
+noon,sunny noon ,scooter, a wheel-less scooter ,door, at the pub door
+housewarming,housewarming ,kitten, a kitten chases ,tail, his own tail
+draw,i draw the snow ,said, said the child ,empty, with an empty sheet
+draw,i draw the snow ,said, said the child ,sheet, with an empty sheet
+draw,i draw the snow ,child, said the child ,empty, with an empty sheet
+draw,i draw the snow ,child, said the child ,sheet, with an empty sheet
+snow,i draw the snow ,said, said the child ,empty, with an empty sheet
+snow,i draw the snow ,said, said the child ,sheet, with an empty sheet
+snow,i draw the snow ,child, said the child ,empty, with an empty sheet
+snow,i draw the snow ,child, said the child ,sheet, with an empty sheet
+winter,winter zoo ,rat, a rat walks in ,cage, the monkeys' cage
+zoo,winter zoo ,rat, a rat walks in ,cage, the monkeys' cage
+leaving,leaving home ,curve, a curve carved off ,moon, the moon
+home,leaving home ,curve, a curve carved off ,moon, the moon
+another,another glass of champagne ,choose, remembering what i choose ,remember, to remember
+glass,another glass of champagne ,choose, remembering what i choose ,remember, to remember
+champagne,another glass of champagne ,choose, remembering what i choose ,remember, to remember
+cluster,cluster of juncos ,apricot, in the apricot tree ,silent, silent snow
+cluster,cluster of juncos ,apricot, in the apricot tree ,snow, silent snow
+cluster,cluster of juncos ,tree, in the apricot tree ,silent, silent snow
+cluster,cluster of juncos ,tree, in the apricot tree ,snow, silent snow
+twist,twist of dust ,across, across the plaza ,going, going home
+twist,twist of dust ,across, across the plaza ,home, going home
+twist,twist of dust ,plaza, across the plaza ,going, going home
+twist,twist of dust ,plaza, across the plaza ,home, going home
+dust,twist of dust ,across, across the plaza ,going, going home
+dust,twist of dust ,across, across the plaza ,home, going home
+dust,twist of dust ,plaza, across the plaza ,going, going home
+dust,twist of dust ,plaza, across the plaza ,home, going home
+dry,dry leaves ,snow, in a snow pocket ,blind, blind faith
+dry,dry leaves ,snow, in a snow pocket ,faith, blind faith
+dry,dry leaves ,pocket, in a snow pocket ,blind, blind faith
+dry,dry leaves ,pocket, in a snow pocket ,faith, blind faith
+leaves,dry leaves ,snow, in a snow pocket ,blind, blind faith
+leaves,dry leaves ,snow, in a snow pocket ,faith, blind faith
+leaves,dry leaves ,pocket, in a snow pocket ,blind, blind faith
+leaves,dry leaves ,pocket, in a snow pocket ,faith, blind faith
+light,textured light ,lily, the lily ,dew, fills with dew
+rainy,rainy spring ,sprouting, carrots sprouting ,among, among the peas
+spring,rainy spring ,sprouting, carrots sprouting ,among, among the peas
+folded,folded poppies ,await, await the light ,summer, summer solstice
+folded,folded poppies ,await, await the light ,solstice, summer solstice
+folded,folded poppies ,light, await the light ,summer, summer solstice
+folded,folded poppies ,light, await the light ,solstice, summer solstice
+butterfly,a butterfly's ,breath, feather-light breath ,spring, spring sun
+butterfly,a butterfly's ,breath, feather-light breath ,sun, spring sun
+approaching,approaching dusk ,single, a single raven ,sky, claims the sky
+approaching,approaching dusk ,raven, a single raven ,sky, claims the sky
+dusk,approaching dusk ,single, a single raven ,sky, claims the sky
+dusk,approaching dusk ,raven, a single raven ,sky, claims the sky
+spring,spring mist ,last, the last swans sail ,sun, into the sun
+spring,spring mist ,sail, the last swans sail ,sun, into the sun
+mist,spring mist ,last, the last swans sail ,sun, into the sun
+mist,spring mist ,sail, the last swans sail ,sun, into the sun
+christmas,christmas long gone ,three, three crows ,pear, in the pear tree
+christmas,christmas long gone ,three, three crows ,tree, in the pear tree
+long,christmas long gone ,three, three crows ,pear, in the pear tree
+long,christmas long gone ,three, three crows ,tree, in the pear tree
+gone,christmas long gone ,three, three crows ,pear, in the pear tree
+gone,christmas long gone ,three, three crows ,tree, in the pear tree
+like,so like my own plans ,resolution, hms resolution sunk ,next, next to endeavor
+like,so like my own plans ,resolution, hms resolution sunk ,endeavor, next to endeavor
+like,so like my own plans ,sunk, hms resolution sunk ,next, next to endeavor
+like,so like my own plans ,sunk, hms resolution sunk ,endeavor, next to endeavor
+one,one mosquito ,sun, and the sun porch ,suddenly, suddenly too small
+one,one mosquito ,sun, and the sun porch ,small, suddenly too small
+one,one mosquito ,porch, and the sun porch ,suddenly, suddenly too small
+one,one mosquito ,porch, and the sun porch ,small, suddenly too small
+mosquito,one mosquito ,sun, and the sun porch ,suddenly, suddenly too small
+mosquito,one mosquito ,sun, and the sun porch ,small, suddenly too small
+mosquito,one mosquito ,porch, and the sun porch ,suddenly, suddenly too small
+mosquito,one mosquito ,porch, and the sun porch ,small, suddenly too small
+goldenrod,goldenrod ,wade, i wade through a field ,autumn, of autumn light
+goldenrod,goldenrod ,wade, i wade through a field ,light, of autumn light
+goldenrod,goldenrod ,field, i wade through a field ,autumn, of autumn light
+goldenrod,goldenrod ,field, i wade through a field ,light, of autumn light
+smoky,smoky amber beads ,music, the music box plays ,fly, fly me to the moon
+smoky,smoky amber beads ,music, the music box plays ,moon, fly me to the moon
+smoky,smoky amber beads ,box, the music box plays ,fly, fly me to the moon
+smoky,smoky amber beads ,box, the music box plays ,moon, fly me to the moon
+amber,smoky amber beads ,music, the music box plays ,fly, fly me to the moon
+amber,smoky amber beads ,music, the music box plays ,moon, fly me to the moon
+amber,smoky amber beads ,box, the music box plays ,fly, fly me to the moon
+amber,smoky amber beads ,box, the music box plays ,moon, fly me to the moon
+still,still carrying ,summer, summer on its wings ,swallowtail, swallowtail
+carrying,still carrying ,summer, summer on its wings ,swallowtail, swallowtail
+sudden,sudden thunder ,juvenile, a juvenile mallard ,snaps, snaps at a gnat
+sudden,sudden thunder ,juvenile, a juvenile mallard ,gnat, snaps at a gnat
+sudden,sudden thunder ,mallard, a juvenile mallard ,snaps, snaps at a gnat
+sudden,sudden thunder ,mallard, a juvenile mallard ,gnat, snaps at a gnat
+thunder,sudden thunder ,juvenile, a juvenile mallard ,snaps, snaps at a gnat
+thunder,sudden thunder ,juvenile, a juvenile mallard ,gnat, snaps at a gnat
+thunder,sudden thunder ,mallard, a juvenile mallard ,snaps, snaps at a gnat
+thunder,sudden thunder ,mallard, a juvenile mallard ,gnat, snaps at a gnat
+daylight,lingering daylight ,pick, i pick a primrose ,taste, for its taste
+daylight,lingering daylight ,primrose, i pick a primrose ,taste, for its taste
+heavy,heavy snowfall ,hawk, a hawk on a fence post ,almost, almost white
+heavy,heavy snowfall ,hawk, a hawk on a fence post ,white, almost white
+heavy,heavy snowfall ,fence, a hawk on a fence post ,almost, almost white
+heavy,heavy snowfall ,fence, a hawk on a fence post ,white, almost white
+heavy,heavy snowfall ,post, a hawk on a fence post ,almost, almost white
+heavy,heavy snowfall ,post, a hawk on a fence post ,white, almost white
+snowfall,heavy snowfall ,hawk, a hawk on a fence post ,almost, almost white
+snowfall,heavy snowfall ,hawk, a hawk on a fence post ,white, almost white
+snowfall,heavy snowfall ,fence, a hawk on a fence post ,almost, almost white
+snowfall,heavy snowfall ,fence, a hawk on a fence post ,white, almost white
+snowfall,heavy snowfall ,post, a hawk on a fence post ,almost, almost white
+snowfall,heavy snowfall ,post, a hawk on a fence post ,white, almost white
+first,first light ,stroke, shadows of branches stroke ,bedroom, the bedroom ceiling
+first,first light ,stroke, shadows of branches stroke ,ceiling, the bedroom ceiling
+light,first light ,stroke, shadows of branches stroke ,bedroom, the bedroom ceiling
+light,first light ,stroke, shadows of branches stroke ,ceiling, the bedroom ceiling
+winter,winter solstice ,message, i message my sons ,dinner, dinner's ready
+winter,winter solstice ,message, i message my sons ,ready, dinner's ready
+winter,winter solstice ,sons, i message my sons ,dinner, dinner's ready
+winter,winter solstice ,sons, i message my sons ,ready, dinner's ready
+solstice,winter solstice ,message, i message my sons ,dinner, dinner's ready
+solstice,winter solstice ,message, i message my sons ,ready, dinner's ready
+solstice,winter solstice ,sons, i message my sons ,dinner, dinner's ready
+solstice,winter solstice ,sons, i message my sons ,ready, dinner's ready
