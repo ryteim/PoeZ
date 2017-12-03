@@ -1,2 +1,3 @@
 # Weights #
 *.hdf5
+temp_weights/*
