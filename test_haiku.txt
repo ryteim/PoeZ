@@ -1,0 +1,1520 @@
+breeze,balmy breeze,circle,swarming bees circle,bank,the river bank
+breeze,balmy breeze,circle,swarming bees circle,river,the river bank
+breeze,balmy breeze,bees,swarming bees circle,bank,the river bank
+bay,whitecaps on the bay,overhead,the overhead cries,migrating,of migrating birds
+bay,whitecaps on the bay,overhead,the overhead cries,birds,of migrating birds
+bay,whitecaps on the bay,cries,the overhead cries,birds,of migrating birds
+lingers,frost lingers,sprouts,i clean brussels sprouts,kitchen,in the kitchen sink
+lingers,frost lingers,sprouts,i clean brussels sprouts,sink,in the kitchen sink
+lingers,frost lingers,clean,i clean brussels sprouts,kitchen,in the kitchen sink
+day,summer's day,dad,a dad shows his son,work,grandpa's work
+day,summer's day,son,a dad shows his son,work,grandpa's work
+day,summer's day,dad,a dad shows his son,grandpa,grandpa's work
+jetty,on the jetty,fish,above the fish,feet,my feet
+morning,spring morning,child,in the hands of the child,daffodils,daffodils
+spring,spring morning,child,in the hands of the child,daffodils,daffodils
+spring,spring morning,hands,in the hands of the child,daffodils,daffodils
+dusk,spring dusk,stars,more and more stars,wet,on wet branches
+dusk,spring dusk,stars,more and more stars,branches,on wet branches
+spring,spring dusk,stars,more and more stars,branches,on wet branches
+dance,dance studio,mirror,a crack in the mirror glued,paper,with paper hearts
+dance,dance studio,mirror,a crack in the mirror glued,hearts,with paper hearts
+studio,dance studio,mirror,a crack in the mirror glued,paper,with paper hearts
+ear,my ear conch,ear,to your ear conch,sea,sounds of the sea
+ear,my ear conch,ear,to your ear conch,sounds,sounds of the sea
+conch,my ear conch,conch,to your ear conch,sounds,sounds of the sea
+snow,i draw the snow,child,said the child,sheet,with an empty sheet
+draw,i draw the snow,said,said the child,sheet,with an empty sheet
+snow,i draw the snow,child,said the child,empty,with an empty sheet
+winter,winter zoo,walks,a rat walks in,cage,the monkeys' cage
+zoo,winter zoo,rat,a rat walks in,monkeys,the monkeys' cage
+zoo,winter zoo,walks,a rat walks in,cage,the monkeys' cage
+home,leaving home,curve,a curve carved off,moon,the moon
+leaving,leaving home,curve,a curve carved off,moon,the moon
+home,leaving home,carved,a curve carved off,moon,the moon
+another,another glass of champagne,choose,remembering what i choose,remember,to remember
+another,another glass of champagne,remembering,remembering what i choose,remember,to remember
+champagne,another glass of champagne,choose,remembering what i choose,remember,to remember
+twist,twist of dust,across,across the plaza,home,going home
+dust,twist of dust,across,across the plaza,home,going home
+twist,twist of dust,across,across the plaza,going,going home
+leaves,dry leaves,snow,in a snow pocket,blind,blind faith
+leaves,dry leaves,snow,in a snow pocket,faith,blind faith
+dry,dry leaves,snow,in a snow pocket,blind,blind faith
+path,overgrown path,ripe,saskatoons ripe,picking,for the picking
+overgrown,overgrown path,ripe,saskatoons ripe,picking,for the picking
+light,textured light,lily,the lily,dew,fills with dew
+light,textured light,lily,the lily,fills,fills with dew
+spring,rainy spring,carrots,carrots sprouting,among,among the peas
+spring,rainy spring,sprouting,carrots sprouting,peas,among the peas
+rainy,rainy spring,carrots,carrots sprouting,among,among the peas
+poppies,folded poppies,await,await the light,summer,summer solstice
+poppies,folded poppies,await,await the light,solstice,summer solstice
+folded,folded poppies,light,await the light,summer,summer solstice
+butterfly,a butterfly's,breath,feather-light breath,spring,spring sun
+butterfly,a butterfly's,breath,feather-light breath,sun,spring sun
+dusk,approaching dusk,single,a single raven,sky,claims the sky
+approaching,approaching dusk,raven,a single raven,sky,claims the sky
+approaching,approaching dusk,single,a single raven,sky,claims the sky
+mist,spring mist,last,the last swans sail,sun,into the sun
+spring,spring mist,last,the last swans sail,sun,into the sun
+spring,spring mist,sail,the last swans sail,sun,into the sun
+christmas,christmas long gone,crows,three crows,tree,in the pear tree
+christmas,christmas long gone,three,three crows,tree,in the pear tree
+christmas,christmas long gone,three,three crows,pear,in the pear tree
+plans,so like my own plans,resolution,hms resolution sunk,next,next to endeavor
+like,so like my own plans,resolution,hms resolution sunk,next,next to endeavor
+one,one mosquito,sun,and the sun porch,small,suddenly too small
+one,one mosquito,porch,and the sun porch,small,suddenly too small
+one,one mosquito,sun,and the sun porch,suddenly,suddenly too small
+goldenrod,goldenrod,wade,i wade through a field,autumn,of autumn light
+goldenrod,goldenrod,wade,i wade through a field,light,of autumn light
+goldenrod,goldenrod,field,i wade through a field,light,of autumn light
+beads,smoky amber beads,music,the music box plays,fly,fly me to the moon
+amber,smoky amber beads,music,the music box plays,fly,fly me to the moon
+smoky,smoky amber beads,box,the music box plays,moon,fly me to the moon
+carrying,still carrying,wings,summer on its wings,swallowtail,swallowtail
+still,still carrying,wings,summer on its wings,swallowtail,swallowtail
+still,still carrying,summer,summer on its wings,swallowtail,swallowtail
+sudden,sudden thunder,mallard,a juvenile mallard,gnat,snaps at a gnat
+thunder,sudden thunder,mallard,a juvenile mallard,gnat,snaps at a gnat
+sudden,sudden thunder,mallard,a juvenile mallard,snaps,snaps at a gnat
+lingering,lingering daylight,pick,i pick a primrose,taste,for its taste
+daylight,lingering daylight,pick,i pick a primrose,taste,for its taste
+snowfall,heavy snowfall,post,a hawk on a fence post,almost,almost white
+snowfall,heavy snowfall,fence,a hawk on a fence post,almost,almost white
+heavy,heavy snowfall,post,a hawk on a fence post,almost,almost white
+languages,the languages,learned,we learned as children . . .,stump,moss-covered stump
+languages,the languages,children,we learned as children . . .,stump,moss-covered stump
+light,first light,shadows,shadows of branches stroke,bedroom,the bedroom ceiling
+light,first light,branches,shadows of branches stroke,bedroom,the bedroom ceiling
+light,first light,stroke,shadows of branches stroke,bedroom,the bedroom ceiling
+solstice,winter solstice,message,i message my sons,dinner,dinner's ready
+solstice,winter solstice,message,i message my sons,ready,dinner's ready
+winter,winter solstice,message,i message my sons,ready,dinner's ready
+drifting,drifting clouds,trees,what the trees don't know,grasses,about the grasses
+clouds,drifting clouds,trees,what the trees don't know,grasses,about the grasses
+clouds,drifting clouds,know,what the trees don't know,grasses,about the grasses
+winter,winter sun,forest,in the cut down forest,lone,a lone moose
+sun,winter sun,cut,in the cut down forest,moose,a lone moose
+winter,winter sun,forest,in the cut down forest,moose,a lone moose
+speed,high speed train,railway,along the railway line,wild,wild apple trees
+speed,high speed train,railway,along the railway line,apple,wild apple trees
+speed,high speed train,railway,along the railway line,trees,wild apple trees
+town,home town,pace,slowing down my pace,count,as i count lampposts
+home,home town,pace,slowing down my pace,count,as i count lampposts
+town,home town,slowing,slowing down my pace,count,as i count lampposts
+looking,looking at you,without,without the squint now,winter,winter sun
+looking,looking at you,without,without the squint now,sun,winter sun
+hour,silent hour,snowflake,a snowflake tiptoeing,pane,on the window pane
+silent,silent hour,snowflake,a snowflake tiptoeing,pane,on the window pane
+hour,silent hour,snowflake,a snowflake tiptoeing,window,on the window pane
+embracing,embracing,smell,smell of tobacco,empty,from the empty lift
+embracing,embracing,smell,smell of tobacco,lift,from the empty lift
+embracing,embracing,tobacco,smell of tobacco,empty,from the empty lift
+windy,windy,tells,your hair tells,everything,everything
+windy,windy,hair,your hair tells,everything,everything
+new,new year's eve,looking,looking for batteries,among,among snow maidens
+new,new year's eve,looking,looking for batteries,snow,among snow maidens
+year,new year's eve,looking,looking for batteries,snow,among snow maidens
+searching,soul searching,buttons,i punch all the buttons,car,in my new car
+searching,soul searching,punch,i punch all the buttons,car,in my new car
+searching,soul searching,buttons,i punch all the buttons,new,in my new car
+morning,morning chill,etched,petroglyphs etched,frost,with frost
+chill,morning chill,etched,petroglyphs etched,frost,with frost
+cranes,sandhill cranes,lifting,lifting off the bosque,tilts,the earth tilts
+cranes,sandhill cranes,lifting,lifting off the bosque,earth,the earth tilts
+cutting,cutting me off,lane,at the inbound lane,moon,crescent moon
+cutting,cutting me off,lane,at the inbound lane,crescent,crescent moon
+white,white on white,snow,snow buntings,mist,rise from the mist
+white,white on white,snow,snow buntings,mist,rise from the mist
+white,white on white,snow,snow buntings,rise,rise from the mist
+morning,morning sun,rice,the smell of rice tea,iron,in an iron pot
+morning,morning sun,tea,the smell of rice tea,pot,in an iron pot
+morning,morning sun,rice,the smell of rice tea,pot,in an iron pot
+fingers,stiff fingers,warmth,the warmth,flames,of crackling flames
+fingers,stiff fingers,warmth,the warmth,crackling,of crackling flames
+stiff,stiff fingers,warmth,the warmth,flames,of crackling flames
+midnight,past midnight,lake,on the lake,still,geese still squabble
+past,past midnight,lake,on the lake,still,geese still squabble
+midnight,past midnight,lake,on the lake,geese,geese still squabble
+horses,the smell of horses,trail,on the trail,tracks,a cougar's tracks
+smell,the smell of horses,trail,on the trail,tracks,a cougar's tracks
+wild,wild cleft . . .,wind,the sough of wind,snow,on sintered snow
+whistle,receding whistle,train,of the last train,home,a cold trek home
+whistle,receding whistle,train,of the last train,cold,a cold trek home
+whistle,receding whistle,train,of the last train,trek,a cold trek home
+thunder,distant thunder,crash,the crash of coins,bowl,in the beggar's bowl
+distant,distant thunder,crash,the crash of coins,bowl,in the beggar's bowl
+distant,distant thunder,coins,the crash of coins,beggar,in the beggar's bowl
+last,last of the fall colour,black,a black limousine,glides,glides by
+fall,last of the fall colour,black,a black limousine,glides,glides by
+colour,last of the fall colour,black,a black limousine,glides,glides by
+first,first oriole,song,i follow its song,magnolia,to a magnolia
+oriole,first oriole,song,i follow its song,magnolia,to a magnolia
+first,first oriole,follow,i follow its song,magnolia,to a magnolia
+son,my son skips,park,all the way to the park,spring,spring runoff
+son,my son skips,way,all the way to the park,spring,spring runoff
+skips,my son skips,way,all the way to the park,spring,spring runoff
+autumn,autumn,ear,buzzing at my ear,last,last wasp
+autumn,autumn,buzzing,buzzing at my ear,last,last wasp
+autumn,autumn,buzzing,buzzing at my ear,wasp,last wasp
+drought,drought,gate,the garden gate,swings,swings open
+drought,drought,garden,the garden gate,open,swings open
+drought,drought,garden,the garden gate,swings,swings open
+hour,happy hour,shopping,the shopping mall santa,suit,takes off his suit
+happy,happy hour,mall,the shopping mall santa,suit,takes off his suit
+hour,happy hour,mall,the shopping mall santa,suit,takes off his suit
+van,a moving van,traffic,stalls the traffic,morning,morning frost
+moving,a moving van,traffic,stalls the traffic,morning,morning frost
+van,a moving van,traffic,stalls the traffic,frost,morning frost
+light,flickering street light,darkness,from darkness to darkness,flight,the flight of a bat
+light,flickering street light,darkness,from darkness to darkness,flight,the flight of a bat
+flickering,flickering street light,darkness,from darkness to darkness,bat,the flight of a bat
+conversation,the conversation,halt,grinds to a halt,peak,peak oil
+conversation,the conversation,halt,grinds to a halt,oil,peak oil
+fog,fog,headlights,my own headlights,blinding,blinding me
+morning,morning frost,curls,she curls up,even,even smaller
+frost,morning frost,curls,she curls up,even,even smaller
+morning,morning frost,curls,she curls up,smaller,even smaller
+sky,open sky,sea,the sea claims the sand,feet,under my feet
+open,open sky,sea,the sea claims the sand,feet,under my feet
+sky,open sky,sand,the sea claims the sand,feet,under my feet
+first,first frost,runs,water runs slowly,fountain,in the fountain
+first,first frost,water,water runs slowly,fountain,in the fountain
+first,first frost,slowly,water runs slowly,fountain,in the fountain
+snow,first snow,field,the football field lines,slowly,slowly vanish
+snow,first snow,field,the football field lines,vanish,slowly vanish
+first,first snow,field,the football field lines,slowly,slowly vanish
+city,home city,side,touching the inner side,bridge,of the bridge
+city,home city,inner,touching the inner side,bridge,of the bridge
+city,home city,touching,touching the inner side,bridge,of the bridge
+cafe,night cafe,jacket,my jacket on the back,chair,of the next chair
+night,night cafe,back,my jacket on the back,next,of the next chair
+night,night cafe,jacket,my jacket on the back,chair,of the next chair
+ice,up their necks in ice,leaves,the leaves of grass,green,so green
+necks,up their necks in ice,leaves,the leaves of grass,green,so green
+ice,up their necks in ice,grass,the leaves of grass,green,so green
+first,first frost,brings,everybody brings his own,cloud,cloud
+frost,first frost,brings,everybody brings his own,cloud,cloud
+first,first frost,everybody,everybody brings his own,cloud,cloud
+leafless,in a leafless park,sweeter,sweeter rowanberry,darker,and darker crows
+park,in a leafless park,sweeter,sweeter rowanberry,crows,and darker crows
+leafless,in a leafless park,sweeter,sweeter rowanberry,crows,and darker crows
+empty,empty beach,fills,the rain fills,prints,her prints
+beach,empty beach,fills,the rain fills,prints,her prints
+beach,empty beach,rain,the rain fills,prints,her prints
+truth,unlikely truth,pod,a milkweed pod,open,cracks open
+truth,unlikely truth,pod,a milkweed pod,cracks,cracks open
+truth,unlikely truth,milkweed,a milkweed pod,open,cracks open
+chill,mountain chill,tightly,his tightly kerned,words,words
+mountain,mountain chill,tightly,his tightly kerned,words,words
+hot,hot summer night,tiles,click of mahjong tiles,air,lifts the air
+hot,hot summer night,click,click of mahjong tiles,air,lifts the air
+night,hot summer night,tiles,click of mahjong tiles,air,lifts the air
+sky,soaked in sky,morning,a prairie morning,blooms,blooms
+sky,soaked in sky,prairie,a prairie morning,blooms,blooms
+soaked,soaked in sky,morning,a prairie morning,blooms,blooms
+dusk,autumn dusk,apple,the wilting apple tree,lit,lit from within
+dusk,autumn dusk,tree,the wilting apple tree,lit,lit from within
+autumn,autumn dusk,tree,the wilting apple tree,lit,lit from within
+wheat,smell of ripe wheat,blades,thresher blades,sun,catch the sun
+ripe,smell of ripe wheat,blades,thresher blades,sun,catch the sun
+smell,smell of ripe wheat,blades,thresher blades,sun,catch the sun
+hoarfrost,feathers of hoarfrost,ravens,ravens await,dawn,the dawn
+hoarfrost,feathers of hoarfrost,await,ravens await,dawn,the dawn
+feathers,feathers of hoarfrost,ravens,ravens await,dawn,the dawn
+winter,winter camping . . .,cooking,cooking,moonlight,with moonlight
+camping,winter camping . . .,cooking,cooking,moonlight,with moonlight
+prairie,on all sides the prairie,sky,touches sky,winter,winter stubble
+prairie,on all sides the prairie,sky,touches sky,stubble,winter stubble
+prairie,on all sides the prairie,touches,touches sky,winter,winter stubble
+bare,bare cottonwoods,back,the river folds back,back,and back again
+cottonwoods,bare cottonwoods,back,the river folds back,back,and back again
+bare,bare cottonwoods,folds,the river folds back,back,and back again
+shifting,shifting,view,my point of view,skunk,the skunk
+shifting,shifting,point,my point of view,skunk,the skunk
+snow,snow flurry,tasting,tasting his chapstick,lips,on my lips
+frosted,frosted windows,greens,i toss more greens,soup,in the soup
+windows,frosted windows,greens,i toss more greens,soup,in the soup
+frosted,frosted windows,toss,i toss more greens,soup,in the soup
+blossoms,falling blossoms,cards,the snap of the cards,folds,as he folds
+blossoms,falling blossoms,snap,the snap of the cards,folds,as he folds
+falling,falling blossoms,snap,the snap of the cards,folds,as he folds
+day,gusty day,windmill,the windmill motionless,beer,on the delft beer stein
+day,gusty day,motionless,the windmill motionless,beer,on the delft beer stein
+moonrise,moonrise,basketball,a basketball bounces,hoop,off the hoop
+moonrise,moonrise,bounces,a basketball bounces,hoop,off the hoop
+heat,heat haze,ahead,the road ahead sinks,mirage,into its mirage
+heat,heat haze,road,the road ahead sinks,mirage,into its mirage
+haze,heat haze,sinks,the road ahead sinks,mirage,into its mirage
+dawn,winter dawn,magpie,the preening magpie's,breast,pink-tinged breast
+winter,winter dawn,magpie,the preening magpie's,breast,pink-tinged breast
+new,new coolness,leaves,the postman leaves a note,without,without ringing
+new,new coolness,note,the postman leaves a note,without,without ringing
+coolness,new coolness,leaves,the postman leaves a note,without,without ringing
+rain,sheets of rain,along,along the foothills . . .,summer,summer lethargy
+rain,sheets of rain,foothills,along the foothills . . .,summer,summer lethargy
+sheets,sheets of rain,along,along the foothills . . .,summer,summer lethargy
+crow,the hooded crow's,grey,grey underbelly . . .,clouds,snow bearing clouds
+crow,the hooded crow's,grey,grey underbelly . . .,snow,snow bearing clouds
+crow,the hooded crow's,underbelly,grey underbelly . . .,snow,snow bearing clouds
+small,small hours,glass,the frosted edge of a glass,moon,sickle moon
+small,small hours,edge,the frosted edge of a glass,moon,sickle moon
+small,small hours,glass,the frosted edge of a glass,sickle,sickle moon
+rain,after the rain,sun,a glimmer of sun,gutter,in the gutter
+rain,after the rain,glimmer,a glimmer of sun,gutter,in the gutter
+morning,spring morning,wild,a wild boar turns over,lawn,my neighbours lawn
+spring,spring morning,turns,a wild boar turns over,lawn,my neighbours lawn
+morning,spring morning,turns,a wild boar turns over,lawn,my neighbours lawn
+insomnia,insomnia,side,the cold on the other side,pillow,of the pillow
+insomnia,insomnia,cold,the cold on the other side,pillow,of the pillow
+fall,leaf fall,new,a new baby hat,neighbor,in neighbor's stroller
+leaf,leaf fall,new,a new baby hat,neighbor,in neighbor's stroller
+fall,leaf fall,baby,a new baby hat,neighbor,in neighbor's stroller
+meeting,client meeting,rook,a black rook paces,gold,the gold of leaves
+meeting,client meeting,black,a black rook paces,gold,the gold of leaves
+meeting,client meeting,black,a black rook paces,leaves,the gold of leaves
+leaves,lying in fall leaves,wait,i wait for,next,the next one
+lying,lying in fall leaves,wait,i wait for,next,the next one
+fall,lying in fall leaves,wait,i wait for,one,the next one
+autumn,autumn draft,descend,helicopters descend,maple,from the maple tree
+autumn,autumn draft,descend,helicopters descend,tree,from the maple tree
+draft,autumn draft,descend,helicopters descend,maple,from the maple tree
+sunset,sunset,shadows,the shadows of her legs,longer,grow longer
+sunset,sunset,shadows,the shadows of her legs,grow,grow longer
+sunset,sunset,legs,the shadows of her legs,grow,grow longer
+leaving,leaving,doubt,nothing to doubt,summer,summer hail
+leaving,leaving,nothing,nothing to doubt,summer,summer hail
+leaving,leaving,doubt,nothing to doubt,hail,summer hail
+sundown,sundown,sparrow,that one-note sparrow,silent,finally silent
+sundown,sundown,sparrow,that one-note sparrow,finally,finally silent
+rainstorm,summer rainstorm,elm,the old elm embraces,scar,its scar
+summer,summer rainstorm,elm,the old elm embraces,scar,its scar
+summer,summer rainstorm,old,the old elm embraces,scar,its scar
+midsummer,midsummer,rain,we stroke light rain,night,into night music
+midsummer,midsummer,light,we stroke light rain,night,into night music
+midsummer,midsummer,stroke,we stroke light rain,night,into night music
+arctic,arctic blast,birch,the birch,sideways,grow sideways
+blast,arctic blast,birch,the birch,sideways,grow sideways
+blast,arctic blast,birch,the birch,grow,grow sideways
+sky,blue sky day,geese,wild geese wait,thaw,for the thaw
+sky,blue sky day,wild,wild geese wait,thaw,for the thaw
+day,blue sky day,geese,wild geese wait,thaw,for the thaw
+shadows,long shadows,fading,the fading call,jay,of a jay
+long,long shadows,fading,the fading call,jay,of a jay
+long,long shadows,call,the fading call,jay,of a jay
+almost,almost daybreak,crows,the crows,suddenly,suddenly silent
+almost,almost daybreak,crows,the crows,silent,suddenly silent
+daybreak,almost daybreak,crows,the crows,suddenly,suddenly silent
+moon,paling moon,loon,a loon's,cry,atonal cry
+wood,snowy wood,hush,the hush in a cathedral,spruce,of norway spruce
+wood,snowy wood,cathedral,the hush in a cathedral,spruce,of norway spruce
+snowy,snowy wood,hush,the hush in a cathedral,spruce,of norway spruce
+curtains,white eyelet curtains,piles,snow piles up,cedars,on the cedars
+curtains,white eyelet curtains,snow,snow piles up,cedars,on the cedars
+white,white eyelet curtains,snow,snow piles up,cedars,on the cedars
+snow,snow lantern,pond,across the pond,magnolia,a white magnolia
+snow,snow lantern,pond,across the pond,white,a white magnolia
+snow,snow lantern,across,across the pond,white,a white magnolia
+butterfly,between the butterfly,sky,and the sky,forsythia,forsythia
+long,it has been too long,since,since we last kissed,waxwings,with waxwings
+long,it has been too long,kissed,since we last kissed,waxwings,with waxwings
+long,it has been too long,last,since we last kissed,waxwings,with waxwings
+wind,"tick of wind,",crows,crows parlay,bush,in the bush
+tick,"tick of wind,",crows,crows parlay,bush,in the bush
+sunday,"sunday at noon,",sense,no sense of,days,shorter days
+noon,"sunday at noon,",sense,no sense of,days,shorter days
+sunday,"sunday at noon,",sense,no sense of,shorter,shorter days
+late,late arrival,headlights,headlights point,crickets,to crickets
+late,late arrival,point,headlights point,crickets,to crickets
+high,oxygen high,around,slow steps around,dead,the dead chipmunk
+high,oxygen high,slow,slow steps around,dead,the dead chipmunk
+high,oxygen high,steps,slow steps around,dead,the dead chipmunk
+trees,gap in the trees,lake,i see the lake,behind,behind a moose
+gap,gap in the trees,see,i see the lake,behind,behind a moose
+gap,gap in the trees,lake,i see the lake,behind,behind a moose
+nose,nose prints,door,on the patio door,rain,belting rain
+prints,nose prints,patio,on the patio door,rain,belting rain
+prints,nose prints,door,on the patio door,rain,belting rain
+magpie,magpie chase,branch,from branch to branch,yellow,the yellow wind
+magpie,magpie chase,branch,from branch to branch,yellow,the yellow wind
+chase,magpie chase,branch,from branch to branch,wind,the yellow wind
+logs,beaver logs,huge,too huge carry,morning,morning mist
+logs,beaver logs,carry,too huge carry,morning,morning mist
+logs,beaver logs,huge,too huge carry,mist,morning mist
+sleeping,sleeping longer,bed,at the foot of the bed,autumn,autumn equinox
+sleeping,sleeping longer,bed,at the foot of the bed,equinox,autumn equinox
+longer,sleeping longer,bed,at the foot of the bed,autumn,autumn equinox
+stereo,mono versus stereo,rain,the rain,begins,begins ends
+stereo,mono versus stereo,rain,the rain,ends,begins ends
+opening,river opening,promises,the politician promises,faster,faster
+river,river opening,promises,the politician promises,faster,faster
+autumn,autumn breeze,kitten,a kitten heads off,fallen,the fallen leaf
+breeze,autumn breeze,kitten,a kitten heads off,leaf,the fallen leaf
+breeze,autumn breeze,kitten,a kitten heads off,fallen,the fallen leaf
+autumn,autumn morning,young,a young palestinian,village,collects the village cactus fruits
+autumn,autumn morning,young,a young palestinian,cactus,collects the village cactus fruits
+morning,autumn morning,young,a young palestinian,cactus,collects the village cactus fruits
+talks,talks about war,walks,dad walks on the reef,barefoot,barefoot
+war,talks about war,walks,dad walks on the reef,barefoot,barefoot
+war,talks about war,dad,dad walks on the reef,barefoot,barefoot
+sky,vast blue sky,second,for the second time,dad,dad rolls his newspaper
+blue,vast blue sky,second,for the second time,dad,dad rolls his newspaper
+vast,vast blue sky,second,for the second time,dad,dad rolls his newspaper
+morning,early morning news,chimney,the suburb chimney issues,darkness,darkness
+early,early morning news,chimney,the suburb chimney issues,darkness,darkness
+news,early morning news,chimney,the suburb chimney issues,darkness,darkness
+abandoned,abandoned station,sign,the broken sign darts,new,to a new direction
+abandoned,abandoned station,sign,the broken sign darts,direction,to a new direction
+station,abandoned station,darts,the broken sign darts,new,to a new direction
+mourning,the mourning flute,listen,i listen,player,to the player's eyes
+flute,the mourning flute,listen,i listen,player,to the player's eyes
+mourning,the mourning flute,listen,i listen,eyes,to the player's eyes
+empty,empty nest,house,i walk through the house,naked,naked
+nest,empty nest,house,i walk through the house,naked,naked
+empty,empty nest,walk,i walk through the house,naked,naked
+park,tai chi in the park,cigarette,a cigarette hangs,lady,from the old lady's lips
+tai,tai chi in the park,cigarette,a cigarette hangs,lady,from the old lady's lips
+chi,tai chi in the park,cigarette,a cigarette hangs,lady,from the old lady's lips
+beach,dawn on the beach,seagull,seagull and human,sand,prints in the sand
+beach,dawn on the beach,seagull,seagull and human,prints,prints in the sand
+beach,dawn on the beach,human,seagull and human,sand,prints in the sand
+summer,summer storm,lightning,lightning slices,blooming,the blooming peach tree
+summer,summer storm,lightning,lightning slices,tree,the blooming peach tree
+storm,summer storm,lightning,lightning slices,peach,the blooming peach tree
+egg,easter egg hunt,chicken,a squawking chicken,clings,clings to her nest
+egg,easter egg hunt,chicken,a squawking chicken,nest,clings to her nest
+easter,easter egg hunt,chicken,a squawking chicken,clings,clings to her nest
+storm,tropical storm,flock,a flock of geese,north,fly north
+storm,tropical storm,geese,a flock of geese,north,fly north
+tropical,tropical storm,geese,a flock of geese,north,fly north
+afternoon,afternoon heat,blue,blue dragonfly rests,white,on the lab's white head
+afternoon,afternoon heat,blue,blue dragonfly rests,head,on the lab's white head
+heat,afternoon heat,blue,blue dragonfly rests,white,on the lab's white head
+kitchen,kitchen island,tiny,"a cricket, tiny",surface,on the surface
+kitchen,kitchen island,cricket,"a cricket, tiny",surface,on the surface
+island,kitchen island,tiny,"a cricket, tiny",surface,on the surface
+mouth,nil by mouth,hour,rush hour traffic,rain,sizzling in the rain
+mouth,nil by mouth,rush,rush hour traffic,rain,sizzling in the rain
+mouth,nil by mouth,traffic,rush hour traffic,rain,sizzling in the rain
+break,lunch break,squirrel,a squirrel at full stretch,bird,topples the bird feeder
+lunch,lunch break,squirrel,a squirrel at full stretch,bird,topples the bird feeder
+break,lunch break,stretch,a squirrel at full stretch,bird,topples the bird feeder
+school,back to school,morning,morning assembly,local,at the local greasy spoon
+school,back to school,morning,morning assembly,spoon,at the local greasy spoon
+back,back to school,morning,morning assembly,spoon,at the local greasy spoon
+weather,sweater weather,bullfrog,the bullfrog's,absent,absent croak
+sweater,sweater weather,bullfrog,the bullfrog's,absent,absent croak
+weather,sweater weather,bullfrog,the bullfrog's,croak,absent croak
+night,having a night,town,on the town,fog,the fog
+missed,curfew missed,nest,in the family nest,feathers,ruffled feathers
+missed,curfew missed,family,in the family nest,feathers,ruffled feathers
+moon,full moon,ghost,ghost crabs,shadows,race their shadows
+full,full moon,ghost,ghost crabs,shadows,race their shadows
+moon,full moon,crabs,ghost crabs,shadows,race their shadows
+suspended,suspended,hammock,in my hammock,spider,spider web
+suspended,suspended,hammock,in my hammock,web,spider web
+moon,blue moon,shadows,the long shadows,sunflowers,of sunflowers
+moon,blue moon,long,the long shadows,sunflowers,of sunflowers
+blue,blue moon,shadows,the long shadows,sunflowers,of sunflowers
+night,night swimming,full,the river full,stars,of stars
+swimming,night swimming,river,the river full,stars,of stars
+night,night swimming,river,the river full,stars,of stars
+measuring,measuring,marsh,the marsh grass,harrier,harrier
+measuring,measuring,grass,the marsh grass,harrier,harrier
+reading,reading,lines,between the lines,book,book louse
+falls,niagara falls,smell,the smell,sweat,of sweat
+second,second marriage,bigger,bigger,balloons,balloons
+marriage,second marriage,bigger,bigger,balloons,balloons
+burial,burial vaults,billboard,a warmly lit billboard,snow,above the snow
+burial,burial vaults,lit,a warmly lit billboard,snow,above the snow
+grace,amazing grace,gulls,no skylight for gulls,grey,to grey
+amazing,amazing grace,skylight,no skylight for gulls,grey,to grey
+amazing,amazing grace,gulls,no skylight for gulls,grey,to grey
+salmon,salmon fished,weir,the weir's,bones,bones
+wall,unfinished wall,balloon,a balloon seller pats,mountain,the trapped mountain stones
+wall,unfinished wall,pats,a balloon seller pats,mountain,the trapped mountain stones
+wall,unfinished wall,seller,a balloon seller pats,mountain,the trapped mountain stones
+night,starry night,fireflies,fireflies take away,shadows,their shadows
+starry,starry night,fireflies,fireflies take away,shadows,their shadows
+night,starry night,away,fireflies take away,shadows,their shadows
+spring,spring sanctuary,kitten,a kitten buries,shit,its own shit
+sanctuary,spring sanctuary,kitten,a kitten buries,shit,its own shit
+reading,reading lesson,end,at the end of each sentence,full,a full stop
+reading,reading lesson,end,at the end of each sentence,stop,a full stop
+lesson,reading lesson,end,at the end of each sentence,full,a full stop
+ink,ocean of ink,drink,i drink,tea,my tea
+ocean,ocean of ink,drink,i drink,tea,my tea
+rain,after the rain,jumps,a chameleon jumps,washed,on to the washed path
+rain,after the rain,jumps,a chameleon jumps,path,on to the washed path
+rain,after the rain,chameleon,a chameleon jumps,washed,on to the washed path
+heat,heat wave,rain,the sweet scent of rain,humid,in humid air
+heat,heat wave,sweet,the sweet scent of rain,air,in humid air
+wave,heat wave,rain,the sweet scent of rain,humid,in humid air
+later,years later,skeleton,the armadillo's skeleton,roadside,still on the roadside
+later,years later,skeleton,the armadillo's skeleton,still,still on the roadside
+later,years later,armadillo,the armadillo's skeleton,still,still on the roadside
+storm,approaching storm,dog,the dog growls,thunder,with the thunder
+approaching,approaching storm,dog,the dog growls,thunder,with the thunder
+tide,receding tide,together,the merging together,white,of black and white sands
+tide,receding tide,together,the merging together,black,of black and white sands
+receding,receding tide,together,the merging together,sands,of black and white sands
+dawn,dawn,tree,tree tops dipped,sunlight,in sunlight
+dawn,dawn,tops,tree tops dipped,sunlight,in sunlight
+mown,fresh mown lawn,lone,a lone dandelion,tall,stands tall
+mown,fresh mown lawn,dandelion,a lone dandelion,tall,stands tall
+fresh,fresh mown lawn,dandelion,a lone dandelion,tall,stands tall
+boats,old boats,fleeting,fleeting colours,haunt,haunt the silt
+old,old boats,fleeting,fleeting colours,haunt,haunt the silt
+boats,old boats,colours,fleeting colours,haunt,haunt the silt
+sky,chequered sky,gulls,gulls and crows,turn,weigh each turn
+sky,chequered sky,crows,gulls and crows,turn,weigh each turn
+views,hedged views,tree,the cherry tree,meet,where we meet
+views,hedged views,cherry,the cherry tree,meet,where we meet
+found,found,jar,in the cookie jar,false,her false teeth
+found,found,cookie,in the cookie jar,false,her false teeth
+found,found,jar,in the cookie jar,teeth,her false teeth
+white,flock of white doves,sky,lace the sky . . .,grandmother,my grandmother's doilies
+flock,flock of white doves,sky,lace the sky . . .,grandmother,my grandmother's doilies
+flock,flock of white doves,lace,lace the sky . . .,grandmother,my grandmother's doilies
+storm,electrical storm,enough,enough sizzle,toes,to curl my toes
+storm,electrical storm,enough,enough sizzle,curl,to curl my toes
+storm,electrical storm,sizzle,enough sizzle,curl,to curl my toes
+fog,wraparound fog,bark,the dog's bark,returns,returns
+fog,wraparound fog,dog,the dog's bark,returns,returns
+new,new year's,moonlight,moonlight,drifting,drifting
+year,new year's,moonlight,moonlight,drifting,drifting
+smoke,wood smoke,birdsong,birdsong breaking,dawn,the dawn
+smoke,wood smoke,breaking,birdsong breaking,dawn,the dawn
+wood,wood smoke,birdsong,birdsong breaking,dawn,the dawn
+bog,cedar bog,shadow,my shadow,behind,left behind
+bog,cedar bog,shadow,my shadow,left,left behind
+cedar,cedar bog,shadow,my shadow,behind,left behind
+time,no time,like,like now,mayflies,mayflies
+aftershock,aftershock,toilet,the portable toilet,holds,holds its ground
+aftershock,aftershock,toilet,the portable toilet,ground,holds its ground
+descent,leaf descent,drifts,my daydream drifts,anne,into queen anne's lace
+descent,leaf descent,drifts,my daydream drifts,queen,into queen anne's lace
+leaf,leaf descent,drifts,my daydream drifts,lace,into queen anne's lace
+evening,evening rush hour,road,it's anybody's road home,highway,highway of heroes
+evening,evening rush hour,home,it's anybody's road home,heroes,highway of heroes
+rush,evening rush hour,road,it's anybody's road home,highway,highway of heroes
+ivy,ivy,player,the sax player's notes,climb,climb the moon
+ivy,ivy,sax,the sax player's notes,climb,climb the moon
+ivy,ivy,notes,the sax player's notes,climb,climb the moon
+reading,garden reading,egg,the rolling egg,unknown,from an unknown nest
+garden,garden reading,egg,the rolling egg,unknown,from an unknown nest
+garden,garden reading,egg,the rolling egg,nest,from an unknown nest
+ash,drizzling ash,dad,from the tip of dad's kretek,new,i say new things
+drizzling,drizzling ash,dad,from the tip of dad's kretek,new,i say new things
+ash,drizzling ash,tip,from the tip of dad's kretek,things,i say new things
+night,cold night,heat,the escalating heat,old,of my old notebook
+cold,cold night,heat,the escalating heat,old,of my old notebook
+night,cold night,heat,the escalating heat,notebook,of my old notebook
+click,a mouse click,cat,cat in the piled cushions,purring,starts purring
+click,a mouse click,piled,cat in the piled cushions,purring,starts purring
+mouse,a mouse click,piled,cat in the piled cushions,purring,starts purring
+twilight,twilight,bats,bats and dragonflies,skip,skip across my lawn
+twilight,twilight,dragonflies,bats and dragonflies,across,skip across my lawn
+twilight,twilight,bats,bats and dragonflies,across,skip across my lawn
+spider,spider's web,stars,stars and stripes,blowing,blowing in the wind
+web,spider's web,stars,stars and stripes,blowing,blowing in the wind
+spider,spider's web,stars,stars and stripes,wind,blowing in the wind
+spring,spring,green,a tiny green cucumber,brown,on a brown vine
+spring,spring,tiny,a tiny green cucumber,brown,on a brown vine
+spring,spring,tiny,a tiny green cucumber,vine,on a brown vine
+sunrise,lagoon at sunrise,shadow,the shadow,chases,chases its pelican
+lagoon,lagoon at sunrise,shadow,the shadow,chases,chases its pelican
+lagoon,lagoon at sunrise,shadow,the shadow,pelican,chases its pelican
+dawn,dawn hike,jasmine,sweet jasmine,car,and car fumes
+dawn,dawn hike,sweet,sweet jasmine,car,and car fumes
+hike,dawn hike,jasmine,sweet jasmine,car,and car fumes
+sunrise,sunrise,fisherman,the fisherman fishes,reflection,his reflection
+sunrise,sunrise,fishes,the fisherman fishes,reflection,his reflection
+day,father's day,helping,helping tend,something,something nameless
+father,father's day,helping,helping tend,nameless,something nameless
+day,father's day,tend,helping tend,something,something nameless
+choking,absently choking,lemon,on a sliver of lemon,eclipse,near-total eclipse
+choking,absently choking,sliver,on a sliver of lemon,eclipse,near-total eclipse
+kettle,whistling kettle . . .,open,through open windows,croaking,the croaking of frogs
+kettle,whistling kettle . . .,open,through open windows,frogs,the croaking of frogs
+kettle,whistling kettle . . .,windows,through open windows,croaking,the croaking of frogs
+rain,kernels of rain,glass,against the glass. . .,popcorn,popcorn in the microwave
+rain,kernels of rain,glass,against the glass. . .,microwave,popcorn in the microwave
+foghorn,that foghorn bawl,calf,calf separated,mother,from its mother
+planting,spring planting,farmer,the farmer's ashes,fields,on his waiting fields
+spring,spring planting,ashes,the farmer's ashes,waiting,on his waiting fields
+spring,spring planting,farmer,the farmer's ashes,fields,on his waiting fields
+deer,deer fencing,dusk,the rest of dusk,slips,slips through
+deer,deer fencing,rest,the rest of dusk,slips,slips through
+sun,the sun,eyes,in my eyes,oriole,oriole
+coyote,coyote,leads,leads me on,fresh,fresh snow
+coyote,coyote,leads,leads me on,snow,fresh snow
+summer,summer cabin,ants,the ants,dishes,do the dishes
+cabin,summer cabin,ants,the ants,dishes,do the dishes
+rain,salamander rain,moves,the way she moves,tail,her tail
+rain,salamander rain,way,the way she moves,tail,her tail
+mountain,mountain road,light,a lone car throws light,stars,at the stars
+road,mountain road,light,a lone car throws light,stars,at the stars
+mountain,mountain road,car,a lone car throws light,stars,at the stars
+stop,prairie stop,shadow,my grandchild's shadow,lengthens,lengthens
+prairie,prairie stop,shadow,my grandchild's shadow,lengthens,lengthens
+prairie,prairie stop,grandchild,my grandchild's shadow,lengthens,lengthens
+windfall,windfall apples,tango,bees tango,waltz,to a waltz
+apples,windfall apples,tango,bees tango,waltz,to a waltz
+apples,windfall apples,bees,bees tango,waltz,to a waltz
+sky,sky puffy,sheep,with sheep,roll,preacher's on a roll
+sky,sky puffy,sheep,with sheep,preacher,preacher's on a roll
+cage,a line-up for the batting cage,day,labor day,goes,comes goes
+cage,a line-up for the batting cage,day,labor day,comes,comes goes
+cage,a line-up for the batting cage,labor,labor day,goes,comes goes
+night,starry night,grandma,grandma removes,corn,the corn kernels
+starry,starry night,grandma,grandma removes,corn,the corn kernels
+silver,on the silver ashes,black,the black,kettle,of a used kettle
+ashes,on the silver ashes,black,the black,kettle,of a used kettle
+silver,on the silver ashes,black,the black,used,of a used kettle
+moonlight,no moonlight,pier,a rickety pier strikes,sea,through the dark sea
+moonlight,no moonlight,pier,a rickety pier strikes,dark,through the dark sea
+moonlight,no moonlight,strikes,a rickety pier strikes,sea,through the dark sea
+trees,barren trees,twig,even the tiniest twig,mist,embraced by the mist
+trees,barren trees,even,even the tiniest twig,mist,embraced by the mist
+barren,barren trees,twig,even the tiniest twig,mist,embraced by the mist
+beach,summer beach,floating,the floating sky,glass,in her half-empty glass
+summer,summer beach,sky,the floating sky,glass,in her half-empty glass
+summer,summer beach,floating,the floating sky,glass,in her half-empty glass
+spring,spring mist,garden,a lost crab in our garden,folds,folds its claws
+mist,spring mist,garden,a lost crab in our garden,folds,folds its claws
+spring,spring mist,lost,a lost crab in our garden,folds,folds its claws
+winter,winter snow,bird,a red bird pecks,empty,the empty birdfeeder
+winter,winter snow,red,a red bird pecks,empty,the empty birdfeeder
+snow,winter snow,bird,a red bird pecks,empty,the empty birdfeeder
+thunder,dawn thunder,rain,leaves rain,roof,on my roof
+dawn,dawn thunder,rain,leaves rain,roof,on my roof
+thunder,dawn thunder,leaves,leaves rain,roof,on my roof
+day,day's end,broken,broken shadows,lawn,splatter the lawn
+end,day's end,broken,broken shadows,lawn,splatter the lawn
+end,day's end,shadows,broken shadows,lawn,splatter the lawn
+night,after last night's storm,white,a tiny white feather,floats,floats in a puddle
+last,after last night's storm,feather,a tiny white feather,floats,floats in a puddle
+last,after last night's storm,white,a tiny white feather,floats,floats in a puddle
+twilight,twilight,moon,a full moon,branches,between fractured branches
+twilight,twilight,full,a full moon,branches,between fractured branches
+sunrise,sunrise,red,the chameleon's red throat,gold,spins into gold
+sunrise,sunrise,throat,the chameleon's red throat,gold,spins into gold
+sunrise,sunrise,chameleon,the chameleon's red throat,spins,spins into gold
+noon,noon,parrot,the parrot's chatter rises,question,with a question
+noon,noon,chatter,the parrot's chatter rises,question,with a question
+noon,noon,rises,the parrot's chatter rises,question,with a question
+morning,the morning after,rose,rose petals,litter,litter the stairwell
+morning,the morning after,petals,rose petals,litter,litter the stairwell
+morning,the morning after,petals,rose petals,stairwell,litter the stairwell
+new,new town,new,new landlord,old,. . . old bells
+new,new town,new,new landlord,bells,. . . old bells
+town,new town,new,new landlord,old,. . . old bells
+spray,spray art,cherry,the cherry knows,bounds,no bounds
+spray,spray art,knows,the cherry knows,bounds,no bounds
+art,spray art,cherry,the cherry knows,bounds,no bounds
+winter,winter's end,left,out of left field,yellow,a yellow frisbee
+winter,winter's end,field,out of left field,yellow,a yellow frisbee
+end,winter's end,left,out of left field,yellow,a yellow frisbee
+store,store window mannequins,real,in real life poses . . .,people,people watching
+window,store window mannequins,real,in real life poses . . .,people,people watching
+window,store window mannequins,life,in real life poses . . .,watching,people watching
+random,random rain splatters,sidewalk,on the sidewalk . . .,dots,polka dots
+rain,random rain splatters,sidewalk,on the sidewalk . . .,dots,polka dots
+miles,miles of nothingness,sign,"finally, a sign of life",cemetery,cemetery
+miles,miles of nothingness,life,"finally, a sign of life",cemetery,cemetery
+miles,miles of nothingness,finally,"finally, a sign of life",cemetery,cemetery
+puffs,puffs of clouds,piling,piling up . . .,bubble,bubble bath
+puffs,puffs of clouds,piling,piling up . . .,bath,bubble bath
+clouds,puffs of clouds,piling,piling up . . .,bubble,bubble bath
+starlight,starlight,sound,the sound,feeding,of sunfish feeding
+approaching,approaching,thunderstorm,thunderstorm,bugs,lightning bugs
+approaching,approaching,thunderstorm,thunderstorm,lightning,lightning bugs
+feast,the feast,picnic,on picnic rock,mosquitoes,mosquitoes
+feast,the feast,rock,on picnic rock,mosquitoes,mosquitoes
+winter,winter hike,searching,searching,toes,for my toes
+hike,winter hike,searching,searching,toes,for my toes
+living,living dangerously,birdhouse,birdhouse,spider,spider
+dusk,autumn dusk,rocks,a whale bone rocks,tide,with the tide
+autumn,autumn dusk,rocks,a whale bone rocks,tide,with the tide
+dusk,autumn dusk,bone,a whale bone rocks,tide,with the tide
+company,in the company,queens,of kings and queens,solitaire,. . . winter solitaire
+company,in the company,queens,of kings and queens,winter,. . . winter solitaire
+marsh,salt marsh,flash,a flash of silver,heron,in the heron's beak
+marsh,salt marsh,flash,a flash of silver,beak,in the heron's beak
+salt,salt marsh,silver,a flash of silver,beak,in the heron's beak
+spring,spring rain . . .,dog,the dog's coat finer,mine,than mine
+rain,spring rain . . .,coat,the dog's coat finer,mine,than mine
+spring,spring rain . . .,coat,the dog's coat finer,mine,than mine
+song,the song,cricket,of a single cricket,moon,harvest moon
+song,the song,cricket,of a single cricket,harvest,harvest moon
+song,the song,single,of a single cricket,harvest,harvest moon
+snow,fresh snow . . .,chewing,chewing the stuffing,cow,out of my cow
+fresh,fresh snow . . .,chewing,chewing the stuffing,cow,out of my cow
+spring,spring hike,stick,the stick,long,as long as the dog
+hike,spring hike,stick,the stick,long,as long as the dog
+spring,spring hike,stick,the stick,dog,as long as the dog
+fireplace,fireplace logs,ash,burning to ash . . .,mouth,mouth full of squeak
+fireplace,fireplace logs,burning,burning to ash . . .,squeak,mouth full of squeak
+fireplace,fireplace logs,burning,burning to ash . . .,mouth,mouth full of squeak
+geese,arrows of geese,puppy,the puppy chases,wind,leaves on the wind
+geese,arrows of geese,chases,the puppy chases,wind,leaves on the wind
+geese,arrows of geese,chases,the puppy chases,leaves,leaves on the wind
+year,last year's grass . . .,another,another dog,ball,fetches my ball
+last,last year's grass . . .,another,another dog,ball,fetches my ball
+year,last year's grass . . .,dog,another dog,ball,fetches my ball
+snow,over snow,red,the red waiting,forsythia,of forsythia
+snow,over snow,waiting,the red waiting,forsythia,of forsythia
+hike,yukon hike,beat,water sloshes to the beat,bell,of the bear bell
+hike,yukon hike,beat,water sloshes to the beat,bear,of the bear bell
+hike,yukon hike,water,water sloshes to the beat,bell,of the bear bell
+sandals,the smack of sandals,sidewalk,on the sidewalk,summer,summer rain
+sandals,the smack of sandals,sidewalk,on the sidewalk,rain,summer rain
+yellow,lone yellow flower,graveyard,in the graveyard,sun,october sun
+flower,lone yellow flower,graveyard,in the graveyard,sun,october sun
+lone,lone yellow flower,graveyard,in the graveyard,sun,october sun
+festival,at the tulip festival,bouquet,she holds a bouquet,dandelions,of dandelions
+festival,at the tulip festival,holds,she holds a bouquet,dandelions,of dandelions
+tulip,at the tulip festival,bouquet,she holds a bouquet,dandelions,of dandelions
+campsite,campsite with the view,gull,a gull,steals,steals the hot dog buns
+view,campsite with the view,gull,a gull,steals,steals the hot dog buns
+view,campsite with the view,gull,a gull,dog,steals the hot dog buns
+break,break in the showers,wind,wind in the trees,like,sounds like rain
+break,break in the showers,wind,wind in the trees,rain,sounds like rain
+break,break in the showers,trees,wind in the trees,like,sounds like rain
+say,so much to say,gone,and you are gone,sky,twilight sky
+say,so much to say,gone,and you are gone,twilight,twilight sky
+much,so much to say,gone,and you are gone,sky,twilight sky
+winter,winter again,leaf,somehow a coriander leaf,inside,inside my wallet
+winter,winter again,somehow,somehow a coriander leaf,inside,inside my wallet
+winter,winter again,somehow,somehow a coriander leaf,wallet,inside my wallet
+rounds,many more rounds,stops,before the sprinkler stops,summer,summer lawn
+rounds,many more rounds,stops,before the sprinkler stops,lawn,summer lawn
+rounds,many more rounds,sprinkler,before the sprinkler stops,lawn,summer lawn
+ghost,ghost town,sound,sound of army boots from,alley,alley to alley
+ghost,ghost town,sound,sound of army boots from,alley,alley to alley
+ghost,ghost town,army,sound of army boots from,alley,alley to alley
+autumn,autumn sky,swaying,swaying wheat field,wind,shaping the wind
+autumn,autumn sky,field,swaying wheat field,wind,shaping the wind
+sky,autumn sky,swaying,swaying wheat field,wind,shaping the wind
+solstice,winter solstice,pipe,a charas pipe making rounds,bonfire,around the bonfire
+solstice,winter solstice,making,a charas pipe making rounds,bonfire,around the bonfire
+winter,winter solstice,making,a charas pipe making rounds,around,around the bonfire
+evening,late evening . . .,street,the street empties,child,child by child
+evening,late evening . . .,street,the street empties,child,child by child
+late,late evening . . .,street,the street empties,child,child by child
+winter,winter solstice . . .,dream,a furlong of a dream,inside,curls inside me
+solstice,winter solstice . . .,dream,a furlong of a dream,inside,curls inside me
+solstice,winter solstice . . .,dream,a furlong of a dream,curls,curls inside me
+rain,a day of rain,street,the street cleaner clears,puddle,one puddle into another
+day,a day of rain,street,the street cleaner clears,another,one puddle into another
+rain,a day of rain,clears,the street cleaner clears,puddle,one puddle into another
+day,first day of spring,popcorn,my popcorn bar,raining,raining pops
+spring,first day of spring,bar,my popcorn bar,pops,raining pops
+first,first day of spring,bar,my popcorn bar,pops,raining pops
+sky,blue sky morning,hospital,the hospital huffs,clouds,the only clouds
+morning,blue sky morning,hospital,the hospital huffs,clouds,the only clouds
+blue,blue sky morning,hospital,the hospital huffs,clouds,the only clouds
+pauses,pauses,lilies,the tiger lilies,road,the road construction signs
+pauses,pauses,tiger,the tiger lilies,road,the road construction signs
+pauses,pauses,tiger,the tiger lilies,construction,the road construction signs
+mourning,mourning,frost,the frost,power,on the power line
+mourning,mourning,frost,the frost,line,on the power line
+summer,summer shade,grasshopper,only the grasshopper,ticks,ticks time
+summer,summer shade,grasshopper,only the grasshopper,time,ticks time
+shade,summer shade,grasshopper,only the grasshopper,time,ticks time
+grid,off grid,spring,spring stars,breath,beyond my breath
+grid,off grid,stars,spring stars,breath,beyond my breath
+grid,off grid,stars,spring stars,beyond,beyond my breath
+lilies,still-life lilies,sitting,residents sitting,lounge,in the nursing-home lounge
+street,the street artist,sidewalk,brush-strokes the sidewalk,sunset,summer sunset
+street,the street artist,sidewalk,brush-strokes the sidewalk,summer,summer sunset
+artist,the street artist,sidewalk,brush-strokes the sidewalk,summer,summer sunset
+spring,longing for spring,even,even the frozen-flow,water,from the water spout
+longing,longing for spring,even,even the frozen-flow,water,from the water spout
+path,tracking your path,turn,by the lights you turn on,fireflies,fireflies
+path,tracking your path,lights,by the lights you turn on,fireflies,fireflies
+ocean,ocean swim,knowing,not knowing what's,beneath,beneath me
+swim,ocean swim,knowing,not knowing what's,beneath,beneath me
+toy,toy dump truck,sidewalk,the sidewalk,snow,clear of snow
+truck,toy dump truck,sidewalk,the sidewalk,snow,clear of snow
+dump,toy dump truck,sidewalk,the sidewalk,snow,clear of snow
+forest,yukon forest,snow,after months of snow,crocus,crocus
+forest,yukon forest,months,after months of snow,crocus,crocus
+sign,the crosswalk sign,overhead,terns overhead,chirping,chirping
+tide,high tide,blackberry,wild blackberry canes,overtake,overtake the shore
+high,high tide,wild,wild blackberry canes,shore,overtake the shore
+high,high tide,blackberry,wild blackberry canes,overtake,overtake the shore
+room,flies circle the room,second,the second hand,face,of the clock face
+room,flies circle the room,hand,the second hand,face,of the clock face
+flies,flies circle the room,hand,the second hand,face,of the clock face
+evening,evening mist,drunk,a drunk man stops me to,ask,ask the way to the moon
+mist,evening mist,drunk,a drunk man stops me to,ask,ask the way to the moon
+mist,evening mist,stops,a drunk man stops me to,moon,ask the way to the moon
+stranded,stranded,dip,where her neckline takes a dip,vein,a blue vein
+stranded,stranded,dip,where her neckline takes a dip,blue,a blue vein
+stranded,stranded,takes,where her neckline takes a dip,blue,a blue vein
+thaw,golden thaw,peak,from peak to peak,sunrise,mountain sunrise
+thaw,golden thaw,peak,from peak to peak,sunrise,mountain sunrise
+thaw,golden thaw,peak,from peak to peak,mountain,mountain sunrise
+wings,adding wings,eyelashes,to our eyelashes,butterfly,butterfly kiss
+adding,adding wings,eyelashes,to our eyelashes,butterfly,butterfly kiss
+adding,adding wings,eyelashes,to our eyelashes,kiss,butterfly kiss
+end,year's end,sound,only the sound of mouse clicks,desk,from every desk
+year,year's end,sound,only the sound of mouse clicks,every,from every desk
+year,year's end,sound,only the sound of mouse clicks,desk,from every desk
+garden,garden walk,mind,in and out of my mind,butterfly,a butterfly
+walk,garden walk,mind,in and out of my mind,butterfly,a butterfly
+air,air hostess,pointing,her eyeliner's tail pointing,sky,towards the sky
+air,air hostess,tail,her eyeliner's tail pointing,sky,towards the sky
+air,air hostess,pointing,her eyeliner's tail pointing,towards,towards the sky
+december,december,incomplete,incomplete to-do lists,bin,in the bin
+december,december,to-do,incomplete to-do lists,bin,in the bin
+road,forked road,choices,the choices that,never,never mattered
+spring,spring again . . .,songbird,a songbird's paean,dawn,at dawn
+asphalt,wet asphalt . . .,fallen,fallen flowers more,yellow,yellow
+wet,wet asphalt . . .,fallen,fallen flowers more,yellow,yellow
+wet,wet asphalt . . .,flowers,fallen flowers more,yellow,yellow
+crowds,thinning crowds,station,the station mouse obeys,sign,the keep left sign
+crowds,thinning crowds,mouse,the station mouse obeys,left,the keep left sign
+crowds,thinning crowds,station,the station mouse obeys,left,the keep left sign
+closed,footpath closed,points,the pedestrian arrow points,anywhere,to anywhere
+closed,footpath closed,arrow,the pedestrian arrow points,anywhere,to anywhere
+year,year's end,purple,purple cyclamen,outside,outside the florist
+end,year's end,purple,purple cyclamen,outside,outside the florist
+year,year's end,purple,purple cyclamen,florist,outside the florist
+another,another year,tree,the tree rag,ever,ever more ghostly
+year,another year,tree,the tree rag,ever,ever more ghostly
+year,another year,rag,the tree rag,ever,ever more ghostly
+news,war news,even,even the chickadees,fight,fight at the feeder
+war,war news,even,even the chickadees,fight,fight at the feeder
+news,war news,chickadees,even the chickadees,fight,fight at the feeder
+spring,spring dawn,neighbor,the neighbor's hound,sings,sings with me
+dawn,spring dawn,neighbor,the neighbor's hound,sings,sings with me
+spring,spring dawn,hound,the neighbor's hound,sings,sings with me
+gravel,driving over gravel,grit,the grit,country,of a country song
+driving,driving over gravel,grit,the grit,country,of a country song
+driving,driving over gravel,grit,the grit,song,of a country song
+thunder,rolling thunder,car,the bass on the car stereo,passing,passing by
+rolling,rolling thunder,car,the bass on the car stereo,passing,passing by
+thunder,rolling thunder,stereo,the bass on the car stereo,passing,passing by
+spring,spring cleaning,ball,the soccer ball,snow,where snow melted
+spring,spring cleaning,ball,the soccer ball,melted,where snow melted
+cleaning,spring cleaning,ball,the soccer ball,snow,where snow melted
+back,back to routine,vacation,after vacation,orange,mouldy orange
+routine,back to routine,vacation,after vacation,orange,mouldy orange
+winter,winter drizzle,black,the blue in the black,crows,of crows
+winter,winter drizzle,blue,the blue in the black,crows,of crows
+drizzle,winter drizzle,black,the blue in the black,crows,of crows
+busker,the busker,buttons,buttons his collar,blowing,north winds blowing
+busker,the busker,buttons,buttons his collar,north,north winds blowing
+busker,the busker,buttons,buttons his collar,winds,north winds blowing
+train,night train,end,at the end of her back zip,safety,a safety pin
+night,night train,end,at the end of her back zip,safety,a safety pin
+night,night train,back,at the end of her back zip,safety,a safety pin
+rose,half bloomed rose,enters,an ant enters into,fragrance,its fragrance
+rose,half bloomed rose,ant,an ant enters into,fragrance,its fragrance
+bloomed,half bloomed rose,enters,an ant enters into,fragrance,its fragrance
+pattern,pattern of her,bare,fingertips on my bare back,rain,midnight rain
+pattern,pattern of her,bare,fingertips on my bare back,midnight,midnight rain
+pattern,pattern of her,back,fingertips on my bare back,rain,midnight rain
+night,tipsy night,way,searching for the milky way,moons,between double moons
+night,tipsy night,milky,searching for the milky way,moons,between double moons
+night,tipsy night,searching,searching for the milky way,moons,between double moons
+rain,after the rain,petals,only a few petals left,rose,with the rose
+rain,after the rain,left,only a few petals left,rose,with the rose
+meditation,meditation hour,someone,sound of someone's broom,clearing,clearing trash
+meditation,meditation hour,broom,sound of someone's broom,clearing,clearing trash
+hour,meditation hour,broom,sound of someone's broom,clearing,clearing trash
+waking,waking me up,dream,from my midnight dream,glass,glass bangles
+waking,waking me up,midnight,from my midnight dream,glass,glass bangles
+tea,over tea,tells,he tells me he misses,coffee,his mom's coffee
+tea,over tea,misses,he tells me he misses,coffee,his mom's coffee
+tea,over tea,tells,he tells me he misses,mom,his mom's coffee
+father,father's day,fingers,more glitter on my fingers,card,than on the card
+day,father's day,glitter,more glitter on my fingers,card,than on the card
+day,father's day,fingers,more glitter on my fingers,card,than on the card
+slap,slap bang,middle,in the middle of a squabble,park,park gulls
+bang,slap bang,middle,in the middle of a squabble,park,park gulls
+slap,slap bang,middle,in the middle of a squabble,gulls,park gulls
+summer,holding onto summer,last,the last sweat-pea,bouquet,bouquet
+onto,holding onto summer,last,the last sweat-pea,bouquet,bouquet
+holding,holding onto summer,last,the last sweat-pea,bouquet,bouquet
+field,the whole field,mushrooms,mushrooms,construction,constant construction
+field,the whole field,mushrooms,mushrooms,constant,constant construction
+whole,the whole field,mushrooms,mushrooms,construction,constant construction
+falling,leaves falling,river,in the river,flow,going with the flow
+leaves,leaves falling,river,in the river,flow,going with the flow
+leaves,leaves falling,river,in the river,going,going with the flow
+well,well being,rooster,the rooster's crow,hour,on the hour
+well,well being,crow,the rooster's crow,hour,on the hour
+pausing,pausing to ponder,dragonfly,the dragonfly,point,on my pen's point
+pausing,pausing to ponder,dragonfly,the dragonfly,pen,on my pen's point
+beach,beach volleyball,swat,the swat,mosquitoes,of mosquitoes
+wasp,the wasp,glass,in the glass of wine,skinny,skinny dipping
+wasp,the wasp,glass,in the glass of wine,dipping,skinny dipping
+wasp,the wasp,wine,in the glass of wine,skinny,skinny dipping
+block,block of flats,know,i know how,lives,my neighbor lives
+block,block of flats,know,i know how,neighbor,my neighbor lives
+night,all night drive,full,the moon goes full,past,and past
+night,all night drive,moon,the moon goes full,past,and past
+drive,all night drive,goes,the moon goes full,past,and past
+ice,ice in the driveway,slips,she slips,something,into something more comfortable
+driveway,ice in the driveway,slips,she slips,something,into something more comfortable
+driveway,ice in the driveway,slips,she slips,comfortable,into something more comfortable
+ravens,unkindness of ravens,highway,at the side of the highway,snow,blood-stained snow
+ravens,unkindness of ravens,side,at the side of the highway,snow,blood-stained snow
+cars,cars drive by,collects,snow collects,wreath,on the roadside wreath
+drive,cars drive by,collects,snow collects,wreath,on the roadside wreath
+drive,cars drive by,collects,snow collects,roadside,on the roadside wreath
+tax,tax time,desk,a gnome hunches over his desk,garden,in the garden
+time,tax time,desk,a gnome hunches over his desk,garden,in the garden
+time,tax time,gnome,a gnome hunches over his desk,garden,in the garden
+gusts,gusts of wind,rattle,rattle the deck chairs,autumn,early autumn
+wind,gusts of wind,rattle,rattle the deck chairs,autumn,early autumn
+gusts,gusts of wind,rattle,rattle the deck chairs,early,early autumn
+garden,rose garden,another,i tuck another dream,hair,into her hair
+rose,rose garden,dream,i tuck another dream,hair,into her hair
+rose,rose garden,another,i tuck another dream,hair,into her hair
+monsoon,monsoon sky,guitar,from someone's guitar,september,come september
+monsoon,monsoon sky,someone,from someone's guitar,september,come september
+sky,monsoon sky,guitar,from someone's guitar,september,come september
+buddha,garden buddha,face,the glow of his face,even,even after sunset
+buddha,garden buddha,face,the glow of his face,sunset,even after sunset
+garden,garden buddha,face,the glow of his face,even,even after sunset
+spring,spring morning,color,guessing the color of,first,the first rose bud
+morning,spring morning,color,guessing the color of,rose,the first rose bud
+morning,spring morning,color,guessing the color of,first,the first rose bud
+jasmine,a whiff of jasmine,hair,as she unties her hair,rain,hint of rain
+jasmine,a whiff of jasmine,hair,as she unties her hair,hint,hint of rain
+whiff,a whiff of jasmine,hair,as she unties her hair,rain,hint of rain
+lull,monsoon lull,street,the street dog in search,dry,of a dry spot
+lull,monsoon lull,search,the street dog in search,spot,of a dry spot
+monsoon,monsoon lull,search,the street dog in search,spot,of a dry spot
+blackout,blackout,even,even our shadows,touch,don't touch
+blackout,blackout,shadows,even our shadows,touch,don't touch
+sunflowers,sunflowers . . .,shade,my laughter too a shade,yellow,of yellow
+sunflowers,sunflowers . . .,laughter,my laughter too a shade,yellow,of yellow
+leaves,crimson leaves . . .,evening,the evening rustles,hush,into a hush
+crimson,crimson leaves . . .,evening,the evening rustles,hush,into a hush
+tree,jamun tree . . .,summer,the stains of summer,lips,on my lips
+tree,jamun tree . . .,stains,the stains of summer,lips,on my lips
+afternoon,long afternoon,decide,i decide on,red,the red apple
+afternoon,long afternoon,decide,i decide on,apple,the red apple
+long,long afternoon,decide,i decide on,apple,the red apple
+remains,all that remains,house,of the gutted house,summer,summer heat
+remains,all that remains,house,of the gutted house,heat,summer heat
+water,water,roof,sliding off the station roof,summer,summer's end
+water,water,roof,sliding off the station roof,end,summer's end
+water,water,sliding,sliding off the station roof,summer,summer's end
+wine,wine tasting,bottle,another empty bottle,wind,hums in the wind
+wine,wine tasting,empty,another empty bottle,wind,hums in the wind
+tasting,wine tasting,bottle,another empty bottle,hums,hums in the wind
+mailbox,rusted mailbox,message,the message,mind,that slipped my mind
+rusted,rusted mailbox,message,the message,mind,that slipped my mind
+willow,willow grove,cat,the feral cat,purrs,purrs
+grove,willow grove,cat,the feral cat,purrs,purrs
+art,in the art supply drawer,mouse,a mouse,nest,with her nest
+drawer,in the art supply drawer,mouse,a mouse,nest,with her nest
+signed,contract signed,wind,the wind catcher,twirls,twirls to the right
+signed,contract signed,wind,the wind catcher,right,twirls to the right
+contract,contract signed,wind,the wind catcher,twirls,twirls to the right
+knees,tanned knees,jeans,through ripped jeans,summer,end of summer
+knees,tanned knees,jeans,through ripped jeans,end,end of summer
+country,in the country road ditch,black,the black bra,snow,fills with snow
+road,in the country road ditch,black,the black bra,snow,fills with snow
+road,in the country road ditch,black,the black bra,fills,fills with snow
+bell,no temple bell,needed,needed . . .,woodpecker,the woodpecker's tap
+temple,no temple bell,needed,needed . . .,woodpecker,the woodpecker's tap
+bell,no temple bell,needed,needed . . .,tap,the woodpecker's tap
+schoolyard,schoolyard . . .,acorns,the acorns,caps,have all lost their caps
+schoolyard,schoolyard . . .,acorns,the acorns,lost,have all lost their caps
+car,clown car . . .,works,nothing works,horn,but the horn
+clown,clown car . . .,works,nothing works,horn,but the horn
+car,clown car . . .,nothing,nothing works,horn,but the horn
+window,log cabin window . . .,snow,the snow flakes,time,take their time landing
+window,log cabin window . . .,flakes,the snow flakes,time,take their time landing
+cabin,log cabin window . . .,flakes,the snow flakes,time,take their time landing
+art,art festival,work,mimes work,silent,the silent auction
+festival,art festival,work,mimes work,silent,the silent auction
+even,even the leaves,make,make no sound,tundra,tundra
+leaves,even the leaves,sound,make no sound,tundra,tundra
+leaves,even the leaves,make,make no sound,tundra,tundra
+nightfall,alpine nightfall . . .,tent,tent pegs planted,stars,in a bed of stars
+nightfall,alpine nightfall . . .,tent,tent pegs planted,bed,in a bed of stars
+alpine,alpine nightfall . . .,tent,tent pegs planted,bed,in a bed of stars
+river,river eddy,fish,the ripples of fish,catching,catching twilight insects
+river,river eddy,fish,the ripples of fish,twilight,catching twilight insects
+river,river eddy,ripples,the ripples of fish,twilight,catching twilight insects
+sun,arctic sun,rising,rising,circle,fulmars circle the ship
+sun,arctic sun,rising,rising,ship,fulmars circle the ship
+arctic,arctic sun,rising,rising,ship,fulmars circle the ship
+sun,midday sun,hill,a hill sits,shadow,on its own shadow
+sun,midday sun,sits,a hill sits,shadow,on its own shadow
+midday,midday sun,hill,a hill sits,shadow,on its own shadow
+darkness,darkness thickening,last,the last water bird vacates,lake,the lake
+darkness,darkness thickening,water,the last water bird vacates,lake,the lake
+darkness,darkness thickening,bird,the last water bird vacates,lake,the lake
+hospital,hospital wards,reaches,morning reaches the top floor,lift,through the lift
+hospital,hospital wards,top,morning reaches the top floor,lift,through the lift
+hospital,hospital wards,morning,morning reaches the top floor,lift,through the lift
+lights,morning lights,egret,an egret cluttering,prints,yesterday's foot prints
+morning,morning lights,egret,an egret cluttering,prints,yesterday's foot prints
+morning,morning lights,egret,an egret cluttering,yesterday,yesterday's foot prints
+rain,patchy rain,cars,cars from downtown enter,wet,with wet panes
+rain,patchy rain,enter,cars from downtown enter,wet,with wet panes
+rain,patchy rain,cars,cars from downtown enter,panes,with wet panes
+hole,snake hole,tail,the tail of a train,hill,in the hill tunnel
+hole,snake hole,tail,the tail of a train,tunnel,in the hill tunnel
+snake,snake hole,tail,the tail of a train,hill,in the hill tunnel
+dusk,dusk . . .,green,a green bee-eater gets lost,greens,in greens
+dusk,dusk . . .,lost,a green bee-eater gets lost,greens,in greens
+dusk,dusk . . .,gets,a green bee-eater gets lost,greens,in greens
+midnight,midnight,heavy,the heavy noise of,rain,trickling rain
+midnight,midnight,noise,the heavy noise of,rain,trickling rain
+midnight,midnight,noise,the heavy noise of,trickling,trickling rain
+morning,morning,busy,a busy spider weaving,leaf,leaf to leaf
+morning,morning,busy,a busy spider weaving,leaf,leaf to leaf
+morning,morning,weaving,a busy spider weaving,leaf,leaf to leaf
+full,full moon,shivering,the cotton sprouts shivering,night,the night away
+moon,full moon,shivering,the cotton sprouts shivering,night,the night away
+full,full moon,sprouts,the cotton sprouts shivering,night,the night away
+black,black silk,slips,the larvae slips out,skin,of its skin
+silk,black silk,slips,the larvae slips out,skin,of its skin
+beach,streaks of beach,horizon,smudging the horizon,fire,brush fire
+streaks,streaks of beach,horizon,smudging the horizon,brush,brush fire
+beach,streaks of beach,horizon,smudging the horizon,brush,brush fire
+river,river bend,heron,a great blue heron curves,sight,from sight
+bend,river bend,curves,a great blue heron curves,sight,from sight
+river,river bend,great,a great blue heron curves,sight,from sight
+wide,the wide eyes,wings,on the moth's wings,moon,harvest moon
+eyes,the wide eyes,moth,on the moth's wings,moon,harvest moon
+wide,the wide eyes,moth,on the moth's wings,harvest,harvest moon
+berry,berry wine,chipmunk,the chipmunk teeters,branch,along the branch
+berry,berry wine,chipmunk,the chipmunk teeters,along,along the branch
+wine,berry wine,chipmunk,the chipmunk teeters,branch,along the branch
+stale,stale arguments . . .,blackbird,a blackbird mending,pine,pine shadows
+stale,stale arguments . . .,blackbird,a blackbird mending,shadows,pine shadows
+snowflakes,first snowflakes . . .,dark,painting the dark side,moon,of the full moon
+first,first snowflakes . . .,dark,painting the dark side,moon,of the full moon
+snowflakes,first snowflakes . . .,dark,painting the dark side,full,of the full moon
+blossoms,plum blossoms . . .,night,the night distils into,birdsong,birdsong
+plum,plum blossoms . . .,night,the night distils into,birdsong,birdsong
+shadows,deep shadows . . .,glow,a glow worm exhales,way,the milky way
+shadows,deep shadows . . .,glow,a glow worm exhales,milky,the milky way
+deep,deep shadows . . .,glow,a glow worm exhales,way,the milky way
+hovering,hovering,summer,over summer clouds . . .,mom,mom's lullaby
+hovering,hovering,clouds,over summer clouds . . .,mom,mom's lullaby
+hovering,hovering,clouds,over summer clouds . . .,lullaby,mom's lullaby
+laughter,laughter,dripping,dripping from her elbows . . .,orchard,mango orchard
+laughter,laughter,dripping,dripping from her elbows . . .,mango,mango orchard
+laughter,laughter,elbows,dripping from her elbows . . .,mango,mango orchard
+deep,knee deep in heather,purple,the purple scent,summer,of summer
+deep,knee deep in heather,scent,the purple scent,summer,of summer
+knee,knee deep in heather,purple,the purple scent,summer,of summer
+harvest,hay harvest,summer,summer sun wrapped up,winter,for winter
+hay,hay harvest,summer,summer sun wrapped up,winter,for winter
+harvest,hay harvest,sun,summer sun wrapped up,winter,for winter
+mist,out of the mist,butterflies,a charm of butterflies,wind,court the wind
+mist,out of the mist,butterflies,a charm of butterflies,court,court the wind
+ear,ear,barley,of barley,crescent,crescent moon
+ear,ear,barley,of barley,moon,crescent moon
+stroll,march stroll,follows,the sun follows us,hills,into the hills
+stroll,march stroll,sun,the sun follows us,hills,into the hills
+march,march stroll,follows,the sun follows us,hills,into the hills
+spring,into a spring noon,garden,my garden shoes and i,cobwebs,shedding cobwebs
+noon,into a spring noon,garden,my garden shoes and i,cobwebs,shedding cobwebs
+noon,into a spring noon,shoes,my garden shoes and i,cobwebs,shedding cobwebs
+one,one by one,sea,into the sea,fishermen,fishermen
+one,one by one,sea,into the sea,fishermen,fishermen
+bridge,new bridge,river,a river coming to terms,stone,with the stone pilings
+bridge,new bridge,coming,a river coming to terms,stone,with the stone pilings
+new,new bridge,river,a river coming to terms,stone,with the stone pilings
+rain,dissipated rain,lightning,dim flicker of lightning,distant,in the distant sky
+rain,dissipated rain,lightning,dim flicker of lightning,sky,in the distant sky
+rain,dissipated rain,dim,dim flicker of lightning,sky,in the distant sky
+tank,temple tank,bull,near the stone bull,bull,a real bull
+temple,temple tank,bull,near the stone bull,bull,a real bull
+tank,temple tank,stone,near the stone bull,bull,a real bull
+pond,still pond,crooked,a crooked coconut tree licks,image,its own image
+pond,still pond,licks,a crooked coconut tree licks,image,its own image
+still,still pond,licks,a crooked coconut tree licks,image,its own image
+fall,straight fall,roof,from the roof,rain,dead rain
+straight,straight fall,roof,from the roof,rain,dead rain
+straight,straight fall,roof,from the roof,dead,dead rain
+boat,passing boat,bend,a river bend hides,song,the boatman's song
+passing,passing boat,river,a river bend hides,song,the boatman's song
+passing,passing boat,bend,a river bend hides,song,the boatman's song
+dusk,dusk,waits,a whistling thrush waits,fence,on the fence
+dusk,dusk,whistling,a whistling thrush waits,fence,on the fence
+dusk,dusk,thrush,a whistling thrush waits,fence,on the fence
+mountain,mountain hike,mist,how the mist hides,trail,the trail
+hike,mountain hike,mist,how the mist hides,trail,the trail
+mountain,mountain hike,hides,how the mist hides,trail,the trail
+sunrise,sunrise,snail,a snail crawling through,dew,the dew drops
+sunrise,sunrise,snail,a snail crawling through,drops,the dew drops
+sunrise,sunrise,crawling,a snail crawling through,dew,the dew drops
+noon,deep noon,tree,a squirrel chases a tree,shadow,shadow
+deep,deep noon,tree,a squirrel chases a tree,shadow,shadow
+deep,deep noon,chases,a squirrel chases a tree,shadow,shadow
+skies,drifting skies,colour,the colour of,changing,changing seasons
+drifting,drifting skies,colour,the colour of,changing,changing seasons
+skies,drifting skies,colour,the colour of,seasons,changing seasons
+warning,storm warning,calm,the calm at the eye,potato,of the potato
+storm,storm warning,calm,the calm at the eye,potato,of the potato
+warning,storm warning,eye,the calm at the eye,potato,of the potato
+wild,wild irises,along,along the shoreline,sleep,goslings sleep
+irises,wild irises,along,along the shoreline,sleep,goslings sleep
+buttons,bachelor buttons,catches,the best man catches,bouquet,the bouquet
+buttons,bachelor buttons,best,the best man catches,bouquet,the bouquet
+buttons,bachelor buttons,man,the best man catches,bouquet,the bouquet
+sheep,sheared sheep,swirling,poplar cotton swirling,breeze,in the breeze
+sheep,sheared sheep,poplar,poplar cotton swirling,breeze,in the breeze
+sheep,sheared sheep,cotton,poplar cotton swirling,breeze,in the breeze
+lightning,heat lightning . . .,lily,knee-deep in lily pads,strikes,the heron strikes
+lightning,heat lightning . . .,pads,knee-deep in lily pads,strikes,the heron strikes
+heat,heat lightning . . .,lily,knee-deep in lily pads,strikes,the heron strikes
+indigo,indigo dye . . .,moon,the hurried moon,rushes,rushes on
+mountain,mountain lay-by,call,the call of a blackbird,carries,carries me onward
+mountain,mountain lay-by,blackbird,the call of a blackbird,carries,carries me onward
+mountain,mountain lay-by,blackbird,the call of a blackbird,onward,carries me onward
+waterfall,distant waterfall . . .,sun,an ounce of sun over,rumble,the icy rumble
+distant,distant waterfall . . .,sun,an ounce of sun over,rumble,the icy rumble
+waterfall,distant waterfall . . .,sun,an ounce of sun over,icy,the icy rumble
+moon,moon bow,scent,her scent slips away,silk,like silk
+moon,moon bow,away,her scent slips away,like,like silk
+moon,moon bow,slips,her scent slips away,like,like silk
+moon,midnight moon,violets,the violet of violets,black,almost black
+midnight,midnight moon,violets,the violet of violets,almost,almost black
+midnight,midnight moon,violets,the violet of violets,black,almost black
+death,death verse . . .,woman,a fisher woman scales,moonlight,the moonlight
+verse,death verse . . .,scales,a fisher woman scales,moonlight,the moonlight
+death,death verse . . .,scales,a fisher woman scales,moonlight,the moonlight
+moon,moon breath . . .,slant,the sharper slant of,shadow,my shadow
+breath,moon breath . . .,slant,the sharper slant of,shadow,my shadow
+day,washing day,sheets,sheets billow,breeze,shaping the breeze
+day,washing day,billow,sheets billow,breeze,shaping the breeze
+washing,washing day,sheets,sheets billow,breeze,shaping the breeze
+suspended,suspended,branches,between bare branches,moon,crescent moon
+suspended,suspended,bare,between bare branches,moon,crescent moon
+suspended,suspended,branches,between bare branches,crescent,crescent moon
+visit,graveyard visit,butterfly,a white butterfly,wings,on angel wings
+graveyard,graveyard visit,butterfly,a white butterfly,wings,on angel wings
+graveyard,graveyard visit,white,a white butterfly,wings,on angel wings
+butterfly,a butterfly,cupped,cupped in her hands,sunset,hibiscus sunset
+butterfly,a butterfly,hands,cupped in her hands,sunset,hibiscus sunset
+butterfly,a butterfly,cupped,cupped in her hands,hibiscus,hibiscus sunset
+embroidered,embroidered hedgerows,yellow,the yellow scent,summer,of summer
+embroidered,embroidered hedgerows,scent,the yellow scent,summer,of summer
+forest,forest trail,evening,the evening closely follows,winter,the winter sun
+trail,forest trail,evening,the evening closely follows,winter,the winter sun
+forest,forest trail,evening,the evening closely follows,sun,the winter sun
+drizzle,afternoon drizzle,puddle,a clear sky in the puddle,swing,below the swing
+drizzle,afternoon drizzle,sky,a clear sky in the puddle,swing,below the swing
+drizzle,afternoon drizzle,clear,a clear sky in the puddle,swing,below the swing
+evening,evening rain,shadows,hillside shadows,running,running off
+rain,evening rain,shadows,hillside shadows,running,running off
+evening,evening rain,hillside,hillside shadows,running,running off
+hailstones,hailstones,live,do i live,little,a little longer
+hailstones,hailstones,live,do i live,longer,a little longer
+passing,passing train,light,strobe light of the setting sun,hedges,on the hedges
+train,passing train,setting,strobe light of the setting sun,hedges,on the hedges
+passing,passing train,sun,strobe light of the setting sun,hedges,on the hedges
+breeze,evening breeze,pigeons,pigeons swing and balance,loose,on a loose cable
+evening,evening breeze,balance,pigeons swing and balance,loose,on a loose cable
+breeze,evening breeze,balance,pigeons swing and balance,loose,on a loose cable
+fishing,night fishing,escapes,moonlight escapes,holes,through net holes
+night,night fishing,moonlight,moonlight escapes,net,through net holes
+fishing,night fishing,moonlight,moonlight escapes,holes,through net holes
+fall,fall,pause,the slight pause in between,step,each step
+fall,fall,slight,the slight pause in between,step,each step
+rain,first rain,somewhere,somewhere a peacock,feathers,unfurls its feathers
+rain,first rain,peacock,somewhere a peacock,feathers,unfurls its feathers
+first,first rain,somewhere,somewhere a peacock,feathers,unfurls its feathers
+continue,the bulbuls continue,practice,their practice,morning,morning raga
+long,long drive,breaks,scent of fresh tea breaks,mist,the mist
+drive,long drive,breaks,scent of fresh tea breaks,mist,the mist
+long,long drive,scent,scent of fresh tea breaks,mist,the mist
+fields,paddy fields,steps,the unheard steps,heron,of a heron
+dusk,dusk,clouds,the clouds steal,orange,some orange
+sharp,the sharp tip,swallow,of the swallow's wing,paper,paper cut
+tip,the sharp tip,wing,of the swallow's wing,cut,paper cut
+sharp,the sharp tip,wing,of the swallow's wing,paper,paper cut
+high,high rise,scatters,the peregrine scatters,pigeons,the street pigeons
+high,high rise,scatters,the peregrine scatters,street,the street pigeons
+rise,high rise,scatters,the peregrine scatters,pigeons,the street pigeons
+rain,still in the rain,umbrella,under one umbrella,dog,this dog and i
+still,still in the rain,one,under one umbrella,dog,this dog and i
+rain,still in the rain,one,under one umbrella,dog,this dog and i
+clouds,sunlit clouds,weight,carrying the weight,song,of a lark's song
+clouds,sunlit clouds,carrying,carrying the weight,song,of a lark's song
+sunlit,sunlit clouds,weight,carrying the weight,song,of a lark's song
+spring,spring cleaning,dusting,dusting the cobwebs,shadow,from my shadow
+spring,spring cleaning,cobwebs,dusting the cobwebs,shadow,from my shadow
+cleaning,spring cleaning,dusting,dusting the cobwebs,shadow,from my shadow
+lake,cyan lake . . .,fishing,a fishing net catches,light,the first light
+lake,cyan lake . . .,net,a fishing net catches,light,the first light
+lake,cyan lake . . .,catches,a fishing net catches,first,the first light
+moon,pebble moon,quilt,a patchwork quilt of,stray,stray dreams
+moon,pebble moon,quilt,a patchwork quilt of,dreams,stray dreams
+pebble,pebble moon,patchwork,a patchwork quilt of,dreams,stray dreams
+sunset,sunset beach,leans,a parasol leans into,shadow,its own shadow
+beach,sunset beach,leans,a parasol leans into,shadow,its own shadow
+mountain,mountain haze,dream,the remains of my dream,fading,in fading blossoms
+haze,mountain haze,dream,the remains of my dream,fading,in fading blossoms
+mountain,mountain haze,remains,the remains of my dream,fading,in fading blossoms
+glow,the glow,spring,of spring eventide,daffodil,daffodil sunset
+glow,the glow,spring,of spring eventide,sunset,daffodil sunset
+spring,spring sunlight,winter,winter grey,shadows,cast into shadows
+spring,spring sunlight,winter,winter grey,cast,cast into shadows
+sunlight,spring sunlight,winter,winter grey,shadows,cast into shadows
+curls,the wind curls,wave,with a wave,daylight,daylight folding
+curls,the wind curls,wave,with a wave,folding,daylight folding
+wind,the wind curls,wave,with a wave,daylight,daylight folding
+blue,into the blue,white,a white swan,rising,rising
+blue,into the blue,swan,a white swan,rising,rising
+view,lake view resorts,boat,a boat sails past,frame,the picture frame
+view,lake view resorts,boat,a boat sails past,picture,the picture frame
+view,lake view resorts,sails,a boat sails past,frame,the picture frame
+blue,blue pencil,leaves,the boy leaves behind,sky,an unfinished sky
+blue,blue pencil,behind,the boy leaves behind,sky,an unfinished sky
+blue,blue pencil,boy,the boy leaves behind,sky,an unfinished sky
+bridge,railway bridge,crosses,the moon crosses the river,left,on my left
+bridge,railway bridge,river,the moon crosses the river,left,on my left
+bridge,railway bridge,moon,the moon crosses the river,left,on my left
+memories,travel memories,forgotten,the forgotten trolley,parking,at airport parking
+travel,travel memories,forgotten,the forgotten trolley,parking,at airport parking
+travel,travel memories,forgotten,the forgotten trolley,airport,at airport parking
+receding,receding waters,sea,the sea unseals,puddles,a thousand puddles
+waters,receding waters,sea,the sea unseals,puddles,a thousand puddles
+waters,receding waters,sea,the sea unseals,thousand,a thousand puddles
+nests,weaver bird nests,rat,a rat snake revisits,abandoned,the abandoned homes
+weaver,weaver bird nests,snake,a rat snake revisits,abandoned,the abandoned homes
+weaver,weaver bird nests,rat,a rat snake revisits,abandoned,the abandoned homes
+roof,ladder to the roof,reach,puppies strive to reach,winter,the winter sun
+roof,ladder to the roof,reach,puppies strive to reach,sun,the winter sun
+roof,ladder to the roof,strive,puppies strive to reach,winter,the winter sun
+croak,the frogs croak,sight,at the sight of it,fragile,fragile moon
+croak,the frogs croak,sight,at the sight of it,moon,fragile moon
+frogs,the frogs croak,sight,at the sight of it,fragile,fragile moon
+cranes,flight of cranes,shooting,shooting stars,noon,at noon
+cranes,flight of cranes,stars,shooting stars,noon,at noon
+flight,flight of cranes,stars,shooting stars,noon,at noon
+noon,summer noon,sun,sun tags along with,roots,the banyan roots
+noon,summer noon,sun,sun tags along with,banyan,the banyan roots
+summer,summer noon,sun,sun tags along with,roots,the banyan roots
+blossoms,jasmine blossoms,farmer,the farmer returns with,dreams,fishy dreams
+blossoms,jasmine blossoms,returns,the farmer returns with,dreams,fishy dreams
+jasmine,jasmine blossoms,returns,the farmer returns with,dreams,fishy dreams
+soft,soft drizzle,scent,scent of old books,room,in father's room
+soft,soft drizzle,scent,scent of old books,father,in father's room
+drizzle,soft drizzle,scent,scent of old books,father,in father's room
+breeze,spring breeze,sand,the sand unsettles,shells,empty shells
+breeze,spring breeze,sand,the sand unsettles,empty,empty shells
+spring,spring breeze,sand,the sand unsettles,empty,empty shells
+swells,sea swells,dip,the dip and rise,memory,of memory
+swells,sea swells,rise,the dip and rise,memory,of memory
+sea,sea swells,rise,the dip and rise,memory,of memory
+belt,orion's belt,scar,tracing the scar across,cheek,your cheek
+belt,orion's belt,tracing,tracing the scar across,cheek,your cheek
+orion,orion's belt,scar,tracing the scar across,cheek,your cheek
+moon,the crescent moon,hummingbird,of the hummingbird,opens,a flower opens
+crescent,the crescent moon,hummingbird,of the hummingbird,opens,a flower opens
+moon,the crescent moon,hummingbird,of the hummingbird,flower,a flower opens
+somewhere,somewhere,bones,in my bones,cricket,a cricket
+cascading,cascading,mountain,down the mountain . . .,moonbeams,moonbeams
+winter,winter mist,cat,"so softly, the cat jumps",upon,upon the ledge
+mist,winter mist,softly,"so softly, the cat jumps",upon,upon the ledge
+mist,winter mist,softly,"so softly, the cat jumps",ledge,upon the ledge
+dark,sculpting the dark,old,under an old banyan . . .,song,cicada song
+dark,sculpting the dark,old,under an old banyan . . .,cicada,cicada song
+dark,sculpting the dark,banyan,under an old banyan . . .,song,cicada song
+ends,stitching the ends,sky,of a cerulean sky . . .,swallows,darting swallows
+ends,stitching the ends,sky,of a cerulean sky . . .,darting,darting swallows
+ocean,an ocean,within,within the raindrop . . .,sky,raven sky
+ocean,an ocean,raindrop,within the raindrop . . .,raven,raven sky
+ocean,an ocean,within,within the raindrop . . .,raven,raven sky
+birdbath,the birdbath,ripples,ripples with moonlight,spring,spring rains
+birdbath,the birdbath,ripples,ripples with moonlight,rains,spring rains
+birdbath,the birdbath,moonlight,ripples with moonlight,rains,spring rains
+fog,dense fog,hear,i hear myself,crow,in a crow's cry
+fog,dense fog,hear,i hear myself,cry,in a crow's cry
+dense,dense fog,hear,i hear myself,crow,in a crow's cry
+falling,falling mist,touching,touching the spaces,falling,between falling leaves
+falling,falling mist,touching,touching the spaces,leaves,between falling leaves
+falling,falling mist,spaces,touching the spaces,falling,between falling leaves
+coffee,coffee brewing,light,the dim light,dawn,before dawn
+coffee,coffee brewing,dim,the dim light,dawn,before dawn
+brewing,coffee brewing,light,the dim light,dawn,before dawn
+tide,king tide,waves,waves barrel in,pub,flooding the pub
+tide,king tide,waves,waves barrel in,flooding,flooding the pub
+king,king tide,barrel,waves barrel in,flooding,flooding the pub
+quivering,quivering,crumbling,crumbling,morning,morning clouds
+quivering,quivering,crumbling,crumbling,clouds,morning clouds
+sing,skylarks sing,clouds,peaks of clouds,clean,washed clean
+sing,skylarks sing,peaks,peaks of clouds,clean,washed clean
+sing,skylarks sing,clouds,peaks of clouds,washed,washed clean
+sky,starlit sky,black,the black hole,moon,of a new moon
+starlit,starlit sky,black,the black hole,moon,of a new moon
+sky,starlit sky,black,the black hole,new,of a new moon
+dawn,winter dawn,icicles,cloud icicles,lit,lit from below
+dawn,winter dawn,cloud,cloud icicles,lit,lit from below
+winter,winter dawn,icicles,cloud icicles,lit,lit from below
+mist,evening mist,church,church bells,tune,faintly out of tune
+mist,evening mist,bells,church bells,faintly,faintly out of tune
+mist,evening mist,church,church bells,faintly,faintly out of tune
+summer,first day of summer,shadow,a crow's shadow,sun,on the rising sun
+day,first day of summer,shadow,a crow's shadow,sun,on the rising sun
+first,first day of summer,shadow,a crow's shadow,sun,on the rising sun
+path,losing the path,finding,and finding it,sunrise,alpine sunrise
+losing,losing the path,finding,and finding it,alpine,alpine sunrise
+losing,losing the path,finding,and finding it,sunrise,alpine sunrise
+spring,spring snow,finch,the finch puffs its feathers,frost,against the frost
+spring,spring snow,feathers,the finch puffs its feathers,frost,against the frost
+spring,spring snow,puffs,the finch puffs its feathers,frost,against the frost
+moon,new moon . . .,footprints,footprints circling,winter,the winter apple
+moon,new moon . . .,circling,footprints circling,winter,the winter apple
+moon,new moon . . .,footprints,footprints circling,apple,the winter apple
+walking,walking nowhere,morning,all morning,mockingbird,mockingbird song
+walking,walking nowhere,morning,all morning,song,mockingbird song
+nowhere,walking nowhere,morning,all morning,song,mockingbird song
+sundial,sundial,one,we opt for the one,without,without numerals
+swimming,swimming,lily,under lily pads,green,green light
+swimming,swimming,lily,under lily pads,light,green light
+swimming,swimming,pads,under lily pads,light,green light
+tan,tan lines,coconut,and coconut oil,tide,high tide
+tan,tan lines,oil,and coconut oil,tide,high tide
+lines,tan lines,oil,and coconut oil,tide,high tide
+palms,poolside palms,shadows,the play of shadows,long,all day long
+palms,poolside palms,play,the play of shadows,day,all day long
+palms,poolside palms,shadows,the play of shadows,day,all day long
+moment,for a moment,share,we share the same path,pheasant,a pheasant and i
+moment,for a moment,path,we share the same path,pheasant,a pheasant and i
+mid-winter,mid-winter,heart,the heart of sweetbox,thru,thru an open gate
+mid-winter,mid-winter,heart,the heart of sweetbox,gate,thru an open gate
+mid-winter,mid-winter,heart,the heart of sweetbox,open,thru an open gate
+huddled,huddled cows,thickens,their steam thickens,mist,the valley mist
+huddled,huddled cows,thickens,their steam thickens,valley,the valley mist
+huddled,huddled cows,steam,their steam thickens,mist,the valley mist
+winter,winter meadow,warmth,a doe blows warmth,dawn,into the dawn
+winter,winter meadow,blows,a doe blows warmth,dawn,into the dawn
+meadow,winter meadow,warmth,a doe blows warmth,dawn,into the dawn
+emerald,emerald spring,curl,a curl of fern,rock,under the rock
+emerald,emerald spring,fern,a curl of fern,rock,under the rock
+spring,emerald spring,curl,a curl of fern,rock,under the rock
+riding,riding down the escalator,scent,the scent of snow,damp,on damp coats
+escalator,riding down the escalator,scent,the scent of snow,damp,on damp coats
+escalator,riding down the escalator,snow,the scent of snow,damp,on damp coats
+tales,grandpa's tales,lightning,lightning grazes the,tobacco,tobacco patch
+grandpa,grandpa's tales,lightning,lightning grazes the,tobacco,tobacco patch
+grandpa,grandpa's tales,lightning,lightning grazes the,patch,tobacco patch
+autumn,autumn plum shadows,moonlight,moonlight,face,across her face
+autumn,autumn plum shadows,moonlight,moonlight,across,across her face
+shadows,autumn plum shadows,moonlight,moonlight,across,across her face
+broken,broken twigs,end,short end of wishbones,among,among the tombstones
+broken,broken twigs,short,short end of wishbones,among,among the tombstones
+broken,broken twigs,short,short end of wishbones,tombstones,among the tombstones
+passing,passing cumulus,kite,kite for the,wind,beggar's wind
+passing,passing cumulus,kite,kite for the,beggar,beggar's wind
+snow,first snow,beak,from the jay's beak,moon,a full moon rises
+snow,first snow,beak,from the jay's beak,rises,a full moon rises
+first,first snow,beak,from the jay's beak,rises,a full moon rises
+finger,the beggar's finger,palm,scrapes my palm,autumn,autumn oak
+finger,the beggar's finger,palm,scrapes my palm,oak,autumn oak
+beggar,the beggar's finger,palm,scrapes my palm,autumn,autumn oak
+one,one less voice,kitchen,at the kitchen table,stone,stone soup
+voice,one less voice,kitchen,at the kitchen table,stone,stone soup
+voice,one less voice,table,at the kitchen table,stone,stone soup
+moon,moon shadows,wall,over the wall,pear,autumn pear
+shadows,moon shadows,wall,over the wall,autumn,autumn pear
+moon,moon shadows,wall,over the wall,autumn,autumn pear
+sunrise,autumn sunrise,neighbor,the neighbor's window,fire,on fire
+autumn,autumn sunrise,neighbor,the neighbor's window,fire,on fire
+autumn,autumn sunrise,window,the neighbor's window,fire,on fire
+ebb,ebb tide,crab,the stranded hermit crab,rolls,rolls over
+ebb,ebb tide,hermit,the stranded hermit crab,rolls,rolls over
+tide,ebb tide,crab,the stranded hermit crab,rolls,rolls over
+chill,winter chill,leaf,each rhody leaf curls tightly,around,around itself
+winter,winter chill,leaf,each rhody leaf curls tightly,around,around itself
+chill,winter chill,curls,each rhody leaf curls tightly,around,around itself
+canyon,out of the canyon,blue,out of the blue,flute,a flute
+taking,taking,blue,the blue notes higher,twilight,twilight gulls
+taking,taking,blue,the blue notes higher,gulls,twilight gulls
+taking,taking,notes,the blue notes higher,gulls,twilight gulls
+whistle,the long whistle,train,of the express train,toes,i uncurl my toes
+long,the long whistle,train,of the express train,toes,i uncurl my toes
+whistle,the long whistle,express,of the express train,toes,i uncurl my toes
+paper,paper boat,sky,"cradled by the sky,",sky,cradling the sky
+boat,paper boat,sky,"cradled by the sky,",sky,cradling the sky
+drift,the slow drift,feather,of an owl's feather,moonlight,. . . stretching moonlight
+drift,the slow drift,feather,of an owl's feather,stretching,. . . stretching moonlight
+slow,the slow drift,feather,of an owl's feather,moonlight,. . . stretching moonlight
+roadside,roadside inn,scent,the scent of sunlight,leaf,in a leaf cup
+roadside,roadside inn,sunlight,the scent of sunlight,leaf,in a leaf cup
+roadside,roadside inn,scent,the scent of sunlight,cup,in a leaf cup
+memories,memories,shadow,the long shadow of a,stone,heart-shaped stone
+memories,memories,long,the long shadow of a,stone,heart-shaped stone
+memories,memories,shadow,the long shadow of a,heart-shaped,heart-shaped stone
+whispering,whispering hills,pines,old pines thread,needles,sunlight with their needles
+hills,whispering hills,old,old pines thread,sunlight,sunlight with their needles
+whispering,whispering hills,thread,old pines thread,needles,sunlight with their needles
+bonfire,bonfire,buddha,my snow buddha,enters,enters nirvana
+bonfire,bonfire,snow,my snow buddha,enters,enters nirvana
+moon,new moon,howl,the wolves howl,within,within themselves
+new,new moon,howl,the wolves howl,within,within themselves
+moon,new moon,wolves,the wolves howl,within,within themselves
+light,hearth light,sparrow,a sparrow tarries,open,between open doors
+hearth,hearth light,sparrow,a sparrow tarries,open,between open doors
+hearth,hearth light,sparrow,a sparrow tarries,doors,between open doors
+yawn,stifled yawn,classroom,beyond the classroom,flames,a maple flames
+yawn,stifled yawn,classroom,beyond the classroom,maple,a maple flames
+yawn,stifled yawn,beyond,beyond the classroom,flames,a maple flames
+turns,a pelican turns,dives,dives and surfaces,moon,crescent moon
+pelican,a pelican turns,surfaces,dives and surfaces,crescent,crescent moon
+turns,a pelican turns,dives,dives and surfaces,crescent,crescent moon
+jacaranda,jacaranda,hummingbird,the hummingbird's small song,wakes,wakes me
+jacaranda,jacaranda,small,the hummingbird's small song,wakes,wakes me
+jacaranda,jacaranda,song,the hummingbird's small song,wakes,wakes me
+hugging,hugging the contours,stones,of stones,moonlit,moonlit ripples
+hugging,hugging the contours,stones,of stones,ripples,moonlit ripples
+afternoon,afternoon hours,evening,pass into evening,mum,mum's lace curtains
+afternoon,afternoon hours,evening,pass into evening,curtains,mum's lace curtains
+afternoon,afternoon hours,evening,pass into evening,lace,mum's lace curtains
+day,independence day,breaks,a fern breaks through a crack,wooden,in the wooden buddha
+day,independence day,breaks,a fern breaks through a crack,buddha,in the wooden buddha
+day,independence day,crack,a fern breaks through a crack,wooden,in the wooden buddha
+lake,mirror lake,ripples,a fallen leaf sends ripples,clouds,into the clouds
+mirror,mirror lake,ripples,a fallen leaf sends ripples,clouds,into the clouds
+lake,mirror lake,leaf,a fallen leaf sends ripples,clouds,into the clouds
+rainy,rainy commute,hand,the hitchhiker's hand,dark,glows in the dark
+commute,rainy commute,hand,the hitchhiker's hand,dark,glows in the dark
+commute,rainy commute,hand,the hitchhiker's hand,glows,glows in the dark
+autumn,autumn afternoon,follow,the cat's eyes follow,leaf,each falling leaf
+autumn,autumn afternoon,cat,the cat's eyes follow,falling,each falling leaf
+autumn,autumn afternoon,eyes,the cat's eyes follow,leaf,each falling leaf
+mockingbird,the mockingbird,song,keeps changing his song,deadline,my deadline passes
+mockingbird,the mockingbird,song,keeps changing his song,passes,my deadline passes
+mockingbird,the mockingbird,keeps,keeps changing his song,deadline,my deadline passes
+call,prayer call,cry,the cry of a lost calf,twilight,at twilight
+prayer,prayer call,cry,the cry of a lost calf,twilight,at twilight
+call,prayer call,lost,the cry of a lost calf,twilight,at twilight
+night,scent of night mist,closer,the hoof-beats closer,closer,and closer
+scent,scent of night mist,closer,the hoof-beats closer,closer,and closer
+mist,scent of night mist,closer,the hoof-beats closer,closer,and closer
+bee,bee buzz . . .,lives,the secret lives,queens,of queens
+buzz,bee buzz . . .,lives,the secret lives,queens,of queens
+buzz,bee buzz . . .,secret,the secret lives,queens,of queens
+scars,scars,heal,that have begun to heal,asters,purple asters
+scars,scars,begun,that have begun to heal,asters,purple asters
+scars,scars,begun,that have begun to heal,purple,purple asters
+night,winter's night,home,at home,blue,in the pleiades blue
+winter,winter's night,home,at home,blue,in the pleiades blue
+winter,winter's night,home,at home,pleiades,in the pleiades blue
+bird,charged humming bird,sky,the sky,flower,begins to flower
+humming,charged humming bird,sky,the sky,flower,begins to flower
+bird,charged humming bird,sky,the sky,begins,begins to flower
+swan,swan song . . .,curve,remembering the curve,neck,of her neck
+song,swan song . . .,curve,remembering the curve,neck,of her neck
+swan,swan song . . .,remembering,remembering the curve,neck,of her neck
+winter,winter blessings,snowflakes,snowflakes,one,one by one
+winter,winter blessings,snowflakes,snowflakes,one,one by one
+blessings,winter blessings,snowflakes,snowflakes,one,one by one
+eggs,candling eggs,tales,the old wives tales,try,we try to forget
+eggs,candling eggs,tales,the old wives tales,forget,we try to forget
+eggs,candling eggs,old,the old wives tales,try,we try to forget
+sundown,sundown,leaf,the maple's last leaf,falls,as her dress falls
+sundown,sundown,last,the maple's last leaf,falls,as her dress falls
+sundown,sundown,maple,the maple's last leaf,falls,as her dress falls
+spring,spring freeze,blossoms,pear blossoms,moon,under the half moon
+spring,spring freeze,pear,pear blossoms,moon,under the half moon
+spring,spring freeze,blossoms,pear blossoms,half,under the half moon
+breeze,warm breeze,caught,caught on the grass,dragonfly,one dragonfly wing
+warm,warm breeze,caught,caught on the grass,dragonfly,one dragonfly wing
+breeze,warm breeze,grass,caught on the grass,one,one dragonfly wing
+new,new moon,old,among old pines,wind,wind
+new,new moon,among,among old pines,wind,wind
+moon,new moon,among,among old pines,wind,wind
+sunset,crimson sunset,gulls,all the sea gulls,silhouette,in silhouette
+sunset,crimson sunset,sea,all the sea gulls,silhouette,in silhouette
+crimson,crimson sunset,gulls,all the sea gulls,silhouette,in silhouette
+midnight,approaching midnight,rolling,a rolling mist,fields,dreaming over the fields
+approaching,approaching midnight,rolling,a rolling mist,fields,dreaming over the fields
+midnight,approaching midnight,mist,a rolling mist,fields,dreaming over the fields
+lime,lime cordial,ice,the tinkle of ice,forty,forty years ago
+lime,lime cordial,ice,the tinkle of ice,years,forty years ago
+lime,lime cordial,ice,the tinkle of ice,ago,forty years ago
+gale,november gale,windfall,the scent of windfall apples,crushed,crushed in the roadway
+november,november gale,windfall,the scent of windfall apples,crushed,crushed in the roadway
+gale,november gale,scent,the scent of windfall apples,crushed,crushed in the roadway
+school,no school,takes,snow takes a turn,swing,on the swing
+school,no school,snow,snow takes a turn,swing,on the swing
+school,no school,turn,snow takes a turn,swing,on the swing
+orchard,orchard cemetery,apple,my father's favorite apple,marker,on his marker
+orchard,orchard cemetery,favorite,my father's favorite apple,marker,on his marker
+cemetery,orchard cemetery,apple,my father's favorite apple,marker,on his marker
+rain,autumn rain . . .,fills,the birdbath fills,drop,drop by drop
+rain,autumn rain . . .,fills,the birdbath fills,drop,drop by drop
+autumn,autumn rain . . .,fills,the birdbath fills,drop,drop by drop
+tattered,tattered map,fluid,the fluid v's of geese,delta,above the delta
+map,tattered map,fluid,the fluid v's of geese,delta,above the delta
+tattered,tattered map,geese,the fluid v's of geese,delta,above the delta
+driftwood,driftwood maze,way,we each find our way,back,back from the beach
+driftwood,driftwood maze,find,we each find our way,back,back from the beach
+maze,driftwood maze,way,we each find our way,back,back from the beach
+summer,summer's end . . .,sound,sound of nowhere,rain,in the highway rain
+end,summer's end . . .,sound,sound of nowhere,rain,in the highway rain
+end,summer's end . . .,nowhere,sound of nowhere,highway,in the highway rain
+afternoon,afternoon calm,crosses,the water strider crosses,cloud,another cloud
+calm,afternoon calm,water,the water strider crosses,cloud,another cloud
+calm,afternoon calm,crosses,the water strider crosses,cloud,another cloud
+lilies,water lilies . . .,blue,the blue breath,pond,of the pond
+water,water lilies . . .,blue,the blue breath,pond,of the pond
+water,water lilies . . .,breath,the blue breath,pond,of the pond
+curve,the curve,neck,of a swan's neck . . .,moon,waning moon
+curve,the curve,neck,of a swan's neck . . .,waning,waning moon
+curve,the curve,swan,of a swan's neck . . .,moon,waning moon
+seeking,seeking,child,a child's lure,moon,ripples the moon
+seeking,seeking,child,a child's lure,ripples,ripples the moon
+seeking,seeking,lure,a child's lure,moon,ripples the moon
+storm,lightning storm,gravestones,gravestones play hide and seek,poplars,among the poplars
+lightning,lightning storm,gravestones,gravestones play hide and seek,poplars,among the poplars
+storm,lightning storm,play,gravestones play hide and seek,among,among the poplars
+moon,moon embers,night,the night passes,dawn,into the dawn
+moon,moon embers,passes,the night passes,dawn,into the dawn
+embers,moon embers,night,the night passes,dawn,into the dawn
+pit,old fire pit,moss,moss grows,songs,where there were songs
+old,old fire pit,grows,moss grows,songs,where there were songs
+old,old fire pit,moss,moss grows,songs,where there were songs
+moon,diminished moon,frog,a jumping frog,sun,eclipses the sun
+moon,diminished moon,jumping,a jumping frog,sun,eclipses the sun
+coffee,coffee shop,stories,our family stories,roasted,darkly roasted
+shop,coffee shop,stories,our family stories,roasted,darkly roasted
+shop,coffee shop,family,our family stories,roasted,darkly roasted
+ferry,ferry crossing . . .,cello,girl with a cello,plays,plays for the gulls
+ferry,ferry crossing . . .,cello,girl with a cello,gulls,plays for the gulls
+ferry,ferry crossing . . .,girl,girl with a cello,plays,plays for the gulls
+outdoor,outdoor patio,hummingbird,the hummingbird into,tattoo,the flower tattoo
+patio,outdoor patio,hummingbird,the hummingbird into,tattoo,the flower tattoo
+patio,outdoor patio,hummingbird,the hummingbird into,flower,the flower tattoo
+moon,june moon,sleeping,sleeping under,quilt,the handmade quilt
+june,june moon,sleeping,sleeping under,quilt,the handmade quilt
+iron,red iron,cooling,cooling on the anvil . . .,dust,dust cloud moon
+iron,red iron,cooling,cooling on the anvil . . .,cloud,dust cloud moon
+iron,red iron,cooling,cooling on the anvil . . .,moon,dust cloud moon
+lake,the lake's surface,mirror,a perfect mirror,swallows,swallows at dawn
+lake,the lake's surface,mirror,a perfect mirror,dawn,swallows at dawn
+surface,the lake's surface,mirror,a perfect mirror,swallows,swallows at dawn
+cottonwood,cottonwood slough,dusk,at dusk,sound,the sound of no moose
+cottonwood,cottonwood slough,dusk,at dusk,moose,the sound of no moose
+slough,cottonwood slough,dusk,at dusk,sound,the sound of no moose
+october,first of october,peppers,clipping peppers,evening,in the evening rain
+october,first of october,peppers,clipping peppers,rain,in the evening rain
+first,first of october,peppers,clipping peppers,evening,in the evening rain
+nose,a bison scratches his nose,tree,against a tree,autumn,autumn wind
+nose,a bison scratches his nose,tree,against a tree,wind,autumn wind
+scratches,a bison scratches his nose,tree,against a tree,autumn,autumn wind
+day,longest day,shadow,a ring of shadow,pine,at the pine's feet
+longest,longest day,shadow,a ring of shadow,pine,at the pine's feet
+day,longest day,ring,a ring of shadow,feet,at the pine's feet
