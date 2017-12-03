@@ -5,6 +5,7 @@ import numpy as np
 import re
 from keras.models import Sequential
 from keras.layers import Dense, TimeDistributed, RepeatVector
+from keras.layers import Dense
 from keras.layers import Dropout
 from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
@@ -105,11 +106,19 @@ class HaikuGeneratorLSTM:
 		
 
 		# REMOVED SHIT HERE
+		n_words = len(all_words)
+
+		print("[SETUP] Total # of Words: ", n_words)
+		print("[SETUP] Total # of Unique Words: ", n_unique_words)
+		#print(word_to_index)
+		#print(index_to_word)
+
 		# Setup up input and output pairs:
 		# Want input: word
 		# Want output: poetic phrase
 		# prepare the dataset of input to output pairs encoded as integers
 		# one hot encode the inputs and outputs
+
 		# X = np.zeros((len(word_phrase_pairs), 1, n_unique_words))
 		# y = np.zeros((len(word_phrase_pairs), len_longest_phrase, n_unique_words))
 		
@@ -128,7 +137,6 @@ class HaikuGeneratorLSTM:
 		#print(X[0])
 		#print(y[0])    
 		# END OF REMOVED SHIT HERE
-
 		print("[TRAINING] Defining the LSTM based neural network at a word level:")
 		# define the LSTM model (2-stacked lstm)	
 		model = Sequential()
@@ -241,7 +249,6 @@ if __name__ == '__main__':
 	print("[SETUP] Training Data: " + str(data_filename)) 
 	print("[SETUP] Network Weights Filename Path: " + str(nw_filename)) 
 
-
 	lstm_NN = HaikuGeneratorLSTM(data_filename, nw_filename)
 
 	if mode == 'train':
@@ -267,5 +274,3 @@ if __name__ == '__main__':
 		print(p3)
 
 		
-
-

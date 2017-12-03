@@ -174,6 +174,7 @@ winter,winter solstice ,sons, i message my sons ,ready, dinner's ready
 solstice,winter solstice ,message, i message my sons ,dinner, dinner's ready
 solstice,winter solstice ,message, i message my sons ,ready, dinner's ready
 solstice,winter solstice ,sons, i message my sons ,dinner, dinner's ready
+<<<<<<< HEAD
 solstice,winter solstice ,sons, i message my sons ,ready, dinner's ready
 winter,winter sun ,cut, in the cut down forest ,lone, a lone moose
 winter,winter sun ,cut, in the cut down forest ,moose, a lone moose
@@ -869,3 +870,6 @@ mouse,a mouse click ,cat, cat in the piled cushions ,purring, starts purring
 mouse,a mouse click ,piled, cat in the piled cushions ,purring, starts purring
 click,a mouse click ,cat, cat in the piled cushions ,purring, starts purring
 click,a mouse click ,piled, cat in the piled cushions ,purring, starts purring
+=======
+solstice,winter solstice ,sons, i message my sons ,ready, dinner's ready
+>>>>>>> a5b3e73dc336f9fe8c7f8cb5ac86e39472ac7d41
