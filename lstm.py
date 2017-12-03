@@ -60,8 +60,8 @@ class HaikuGeneratorLSTM:
 		n_unique_words = len(words)
 		n_words = len(all_words)
 
-		print("[SETUP] Total # of Words: ", n_words)
-		print("[SETUP] Total # of Unique Words: ", n_unique_words)
+		print("[SETUP] Total # of Words: " + str(n_words))
+		print("[SETUP] Total # of Unique Words: " + str(n_unique_words))
 		#print(word_to_index)
 		#print(index_to_word)
 		
@@ -117,7 +117,7 @@ class HaikuGeneratorLSTM:
 				model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 			except Exception as e:
-				print("[ERROR] ", str(e))
+				print("[ERROR] " + str(e))
 			self.model = model
 			print("[TRAINING] Model weights loaded.")
 
@@ -162,9 +162,9 @@ class HaikuGeneratorLSTM:
 		n_vocab = len(chars)
 		n_words = len(words)
 
-		print("[SETUP] Total # of Characters: ", n_chars)
-		print("[SETUP] Total # of Unique Characters: ", n_vocab)
-		print("[SETUP] Total # of Unique Words: ", n_words)
+		print("[SETUP] Total # of Characters: " + str(n_chars))
+		print("[SETUP] Total # of Unique Characters: " + str(n_vocab))
+		print("[SETUP] Total # of Unique Words: " + str(n_words))
 	
 		# prepare the dataset of input to output pairs encoded as integers
 		seq_length = 100
@@ -176,7 +176,7 @@ class HaikuGeneratorLSTM:
 			dataX.append([char_to_int[char] for char in seq_in])
 			dataY.append(char_to_int[seq_out])
 		n_patterns = len(dataX)
-		print("[SETUP] Total # of Patterns: ", n_patterns)
+		print("[SETUP] Total # of Patterns: " + str(n_patterns))
 
 		# reshape X to be [samples, time steps, features]
 		X = np.reshape(dataX, (n_patterns, seq_length, 1))
@@ -218,7 +218,7 @@ class HaikuGeneratorLSTM:
 				model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 			except Exception as e:
-				print("[ERROR] ", str(e))
+				print("[ERROR] " + str(e))
 			self.model = model
 			print("[TRAINING] Model weights loaded.")
 
@@ -236,8 +236,8 @@ class HaikuGeneratorLSTM:
 		# summarize the loaded data
 		n_chars = len(raw_text)
 		n_vocab = len(chars)
-		print("[SETUP] Total Characters: ", n_chars)
-		print("[SETUP] Total Vocab: ", n_vocab)
+		print("[SETUP] Total Characters: " + str(n_chars))
+		print("[SETUP] Total Vocab: " + str(n_vocab))
 
 		# prepare the dataset of input to output pairs encoded as integers
 		seq_length = 100
@@ -249,7 +249,7 @@ class HaikuGeneratorLSTM:
 			dataX.append([char_to_int[char] for char in seq_in])
 			dataY.append(char_to_int[seq_out])
 		n_patterns = len(dataX)
-		print("[SETUP] Total Patterns: ", n_patterns)
+		print("[SETUP] Total Patterns: " + str(n_patterns))
 
 		# reshape X to be [samples, time steps, features]
 		X = np.reshape(dataX, (n_patterns, seq_length, 1))
