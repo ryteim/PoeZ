@@ -149,7 +149,7 @@ class HaikuGeneratorLSTM:
 		model.add(Dropout(0.2))
 		# model.add(Dense(n_unique_words, activation='softmax'))
 		# model.add(RepeatVector(len_longest_phrase))
-		model.add(TimeDistributed(Dense(n_unique_words, activation='softmax'), input_shape=(256, len_longest_phrase)))
+		model.add(TimeDistributed(Dense(n_unique_words, activation='softmax'), input_shape=(512, len_longest_phrase)))
 
 		print("[TRAINING][DEBUG] Model summary: ")
 		model.summary()
@@ -167,9 +167,9 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index), steps_per_epoch=1000, epochs=10, verbose=0,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index), steps_per_epoch=1000, epochs=10, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
-			model.save_weights(self.nw_path, overwrite=True)
+			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
 
 			print("[TRAINING] Done.")
