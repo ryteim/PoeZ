@@ -1,12 +1,12 @@
 import numpy as np
-from nltk.corpus import wordnet as wn
-from nltk.corpus import words
+# from nltk.corpus import wordnet as wn
+# from nltk.corpus import words
 
 # import nltk
 # nltk.download('words')
 
 
-ENGLISH_VOCAB = set(w.lower() for w in words.words())
+# ENGLISH_VOCAB = set(w.lower() for w in words.words())
 GLOVE_WORDS = None
 
 GLOVE_FILE_IDX = 0
@@ -14,30 +14,33 @@ GLOVE_FILE_DIM = 0
 GLOVE_FILES = ['./corpora/glove.twitter.27B/glove.twitter.27B.DIMd.txt',
 				'./corpora/glove.6B/glove.6B.DIMd.txt',
 				'./corpora/glove.42B.300d.txt',
-				'./corpora/glove.haiku.50d.txt']
+				'./corpora/glove.haikus.50.txt',
+				'./corpora/glove.haiku_pair.50.txt',
+				'./corpora/glove.poems.50.txt',
+				'./corpora/glove.poem_pair.50.txt']
 
-def from_wordnet(token):
-	# return len(wn.synsets(token)) > 0
-	return token in ENGLISH_VOCAB
+# def from_wordnet(token):
+# 	# return len(wn.synsets(token)) > 0
+# 	return token in ENGLISH_VOCAB
 
 def get_topics(tokens, corpus_name):
 	return [t for t in tokens if globals()['from_'+corpus_name](t)]
 
-def _wordnet_sim_score(ta, tb):
-	sa = wn.synsets(ta)
-	sb = wn.synsets(tb)
-	sims = [ssa.path_similarity(ssb) for ssa in sa for ssb in sb]
-	if len(sims) == 0:
-		return 0
-	return max(map(lambda x: 0 if x is None else x, sims))
-	# return np.amax([[
-	# 	ssa.path_similarity(ssb),
-	# 	# ssa.lch_similarity(ssb),
-	# 	# ssa.wup_similarity(ssb),
-	# 	# ssa.res_similarity(ssb),
-	# 	# ssa.jcn_similarity(ssb),
-	# 	# ssa.lin_similarity(ssb)
-	# ] for ssa in sa for ssb in sb], axis=0)
+# def _wordnet_sim_score(ta, tb):
+# 	sa = wn.synsets(ta)
+# 	sb = wn.synsets(tb)
+# 	sims = [ssa.path_similarity(ssb) for ssa in sa for ssb in sb]
+# 	if len(sims) == 0:
+# 		return 0
+# 	return max(map(lambda x: 0 if x is None else x, sims))
+# 	# return np.amax([[
+# 	# 	ssa.path_similarity(ssb),
+# 	# 	# ssa.lch_similarity(ssb),
+# 	# 	# ssa.wup_similarity(ssb),
+# 	# 	# ssa.res_similarity(ssb),
+# 	# 	# ssa.jcn_similarity(ssb),
+# 	# 	# ssa.lin_similarity(ssb)
+# 	# ] for ssa in sa for ssb in sb], axis=0)
 
 
 # taken form the glove repo
@@ -117,6 +120,15 @@ def from_glove_crawl_300(token):
 def from_glove_haiku_50(token):
 	return from_glove(token, 3)
 
+def from_glove_haiku_pair_50(token):
+	return from_glove(token, 4)
+
+def from_glove_poem_50(token):
+	return from_glove(token, 5)
+
+def from_glove_poem_pair_50(token):
+	return from_glove(token, 6)
+
 def __glove_vector(ta_list, W, vocab, ivocab):
 	for idx, term in enumerate(ta_list):
 		if term in vocab:
@@ -144,6 +156,7 @@ def _glove_sim_score(ta_list, tb):
 		return 0
 
 	vec_norm = __glove_vector(ta_list, W, vocab, ivocab)
+
 	return np.dot(W[vocab[tb]], vec_norm.T)
 
 def glove_sim_ranks(ta_list, thr):
