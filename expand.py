@@ -1,38 +1,72 @@
 import numpy as np
-from utils import corpora, utils
+from utils import corpora
+# , utils
 
 CORPORA = {
-# 			'glove_twitter_25': 0.8,
-# 			'glove_twitter_50':0.7,
-# 			'glove_wiki_50':0.6,
-# 			'glove_wiki_100':0.5,
-			'glove_haiku_50':(0.36, 0.05)}
+	'glove_haiku_50':(0.172623282374,0.0861122072487,0.195189285837,0.0806755023293),
+	'glove_haiku_pair_50':(0.122414439778,0.0834738573092,0.176147607884,0.069845982223),
+	'glove_poem_50':(0.245128032712,0.0607993903255,0.281071056951,0.0583519094113),
+	'glove_poem_pair_50':(0.187357508751, 0.0653636996872, 0.238429212481, 0.056475821579)
+}
 
 def expand_topic(tp_list, thr):
 	topics = corpora.glove_sim_ranks(tp_list, thr)
-	topics = utils.filter_stopwords(topics)
+	# topics = utils.filter_stopwords(topics)
+	if len(topics) == 0:
+		return None
 	return np.random.choice(topics, 1)[0]
 
-def expand(input_word, corpus):
+def get_thr(n, corpus, std_level, mean_level):
+	std = np.sqrt(CORPORA[corpus][n+1])
+	bound = std_level*std
+	mean = CORPORA[corpus][n] + mean_level*std
+	thr = (mean+bound, mean-bound)
+	# print thr, bound
+	return thr
+
+
+def expand(input_word, corpus, std_level=1, mean_level=0):
 	topics = corpora.get_topics(input_word.lower().split(), corpus)
 	n = len(topics)
-	thr = (CORPORA[corpus][0]+np.sqrt(CORPORA[corpus][1]), CORPORA[corpus][0]-np.sqrt(CORPORA[corpus][1]))
+
 	if n == 2:
+		thr = get_thr(2, corpus, std_level, mean_level)
 		w3 = expand_topic(topics, thr)
+		if w3 is None:
+			return
 		return topics + [w3]
 
 	if n == 1:
+		thr = get_thr(0, corpus, std_level, mean_level)
 		w2 = expand_topic(topics, thr)
+		if w2 is None:
+			return
+		thr = get_thr(2, corpus, std_level, mean_level)
 		w3 = expand_topic(topics+[w2], thr)
+		if w3 is None:
+			return
 		return topics + [w2, w3]
 
 	return []
 
 
 if __name__ == '__main__':
+	m, s = 0, 1
+
+	input_term = input("\nEnter degree of creativity (between 0 to 10) or press ENTER (default = 9):")
+	if input_term != '':
+		assert(int(input_term) in range(11))
+		m = (9-int(input_term))*0.3
+
+	input_term = input("\nEnter degree of variety (between 0 to 10) or press ENTER (default = 0):")
+	if input_term != '':
+		assert(int(input_term) in range(11))
+		s = (int(input_term)+1)*0.2
+
+	# print m,s
 	while True:
 		input_term = input("\nEnter word(s) (EXIT to break): ")
 		if input_term == 'EXIT':
 			break
 		else:
-			print(expand(input_term, 'glove_haiku_50'))
+			print(expand(input_term, 'glove_poem_pair_50', s, m))
