@@ -2,6 +2,7 @@
 import sys
 import argparse
 import numpy as np
+from scipy import spatial
 import re
 import string
 
@@ -76,13 +77,13 @@ class HaikuGeneratorLSTM:
 					try:
 						X[0][0] = w2v_model[seq_in]
 					except:
-						print("\nWord not modeled in input: " + str(seq_in))
+						#print("\nWord not modeled in input: " + str(seq_in))
 						continue
 					for idx, word in enumerate(seq_out.split()):				
 						try:
 							y[0][idx] = w2v_model[word]	
 						except: 
-							print("Word not modeled in target: " + str(word))
+							#print("Word not modeled in target: " + str(word))
 							continue
 
 				self.X = X
@@ -140,7 +141,7 @@ class HaikuGeneratorLSTM:
 			all_words.extend(phrase1_words)
 			all_words.extend(phrase2_words)
 			all_words.extend(phrase3_words)
- 			word_phrase_pairs.append((row_words[0], row_words[1]))
+			word_phrase_pairs.append((row_words[0], row_words[1]))
 			word_phrase_pairs.append((row_words[2], row_words[3]))
 			word_phrase_pairs.append((row_words[4], row_words[5]))
 		
@@ -276,7 +277,7 @@ class HaikuGeneratorLSTM:
 		elif embedding == 'word2vec':
 			queue_x = np.zeros((1, 1, w2v_model.vectors.shape[1]))
 			try: 				
-				queue_x[0][0] = model[queue]
+				queue_x[0][0] = w2v_model[queue]
 			except Exception as e:
 				print("[ERROR] " + str(e))
 				print("[ERROR] No equivalent in word2vec.")
@@ -300,8 +301,17 @@ class HaikuGeneratorLSTM:
 		
 		elif embedding == 'word2vec':
 			for i in range(0, sampled_y.shape[1]):
-				indexes, metrics = w2v_model.cosine(sampled_y[0][i])
+				#indexes, metrics = w2v_model.cosine(sampled_y[0][i])
+				tree = spatial.KDTree(w2v_model.vectors)		
+				result = w2v_model.vectors[tree.query(sampled_y[0][i])[1]]
+				print(result)
+				word_prediction = ""
+				for w in w2v_model.vocab:
+					if (w2v_model[w]==result).all() :
+						print(w)
+						word_prediction = w
 
+				phrase += str(word_prediction)	
 
 		# print("[OUTPUT] Phrase 1: " + str(phrase))
 		# queue = index_to_word[max_index]
@@ -326,7 +336,7 @@ if __name__ == '__main__':
 	ap.add_argument("-nw", "--network-weights", required=True, help="Filename selected for saving the network weights.")
 	ap.add_argument("-m", "--mode", required=True, help="Choose between training mode or sampling mode.", default="train", choices=list_of_modes)
 	ap.add_argument("-em", "--embedding", required=True, help="Choose the word embedding method.", default="onehot", choices=list_of_embeddings)
-	ap.add_argument("-q", "--query", required=False, help="Query word to generaet a poem about.", default="sing")
+	ap.add_argument("-q", "--query", required=False, help="Query word to generaet a poem about.", default="breeze")
 
 	args = vars(ap.parse_args())
 	nw_filename = args["network_weights"]
