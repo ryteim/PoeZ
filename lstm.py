@@ -77,13 +77,13 @@ class HaikuGeneratorLSTM:
 						X[0][0] = w2v_model[seq_in]
 					except:
 						print("\nWord not modeled in input: " + str(seq_in))
-						pass
+						continue
 					for idx, word in enumerate(seq_out.split()):				
 						try:
 							y[0][idx] = w2v_model[word]	
 						except: 
 							print("Word not modeled in target: " + str(word))
-							pass
+							continue
 
 				self.X = X
 				self.y = y
