@@ -126,8 +126,8 @@ class HaikuGeneratorLSTM:
 		exclude = set(string.punctuation)
 		for row in raw_text:			
 			row_words = row.split(',')							# split by comma
-			row_words = [word.strip() for word in row_words]	# remove all whitespace from each word (before and after)
-			row_words = ''.join(ch for ch in row_words if ch not in exclude)
+			# row_words = [word.strip() for word in row_words]	# remove all whitespace from each word (before and after)
+			# row_words = ''.join(ch for ch in row_words if ch not in exclude)
 			# word1 = self.clean(row_words[0], 0)
 			# word2 = self.clean(row_words[2], 0)			
 			# word3 = self.clean(row_words[4], 0)
@@ -137,7 +137,7 @@ class HaikuGeneratorLSTM:
 			phrase1_words = row_words[1].split()
 			phrase2_words = row_words[3].split()
 			phrase3_words = row_words[5].split()
-			all_words.extend([word1, word2, word3, '\n'])
+			all_words.extend([word1, word2, word3, u"\n"])
 			all_words.extend(phrase1_words)
 			all_words.extend(phrase2_words)
 			all_words.extend(phrase3_words)
