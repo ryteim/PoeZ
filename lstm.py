@@ -36,6 +36,9 @@ class HaikuGeneratorLSTM:
 		# prepare the dataset of input to output pairs encoded as integers
 		# one hot encode the inputs and outputs
 		
+		# load word2vec model
+		w2v_model = word2vec.load('./word2vec_training/text8.bin')
+
 		while 1:
 
 			# word_phrase_pairs
@@ -63,10 +66,7 @@ class HaikuGeneratorLSTM:
 						finalIdx += 1
 
 				elif embedding == 'word2vec':
-
-					# load word2vec model
-					w2v_model = word2vec.load('./word2vec_training/text8.bin')
-
+					
 					X = np.zeros((len(wp), 1, w2v_model.vectors.shape[1]))
 					y = np.zeros((len(wp), len_longest_phrase+1, w2v_model.vectors.shape[1]))
 
@@ -239,7 +239,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=10, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=50, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
@@ -301,17 +301,17 @@ class HaikuGeneratorLSTM:
 		
 		elif embedding == 'word2vec':
 			for i in range(0, sampled_y.shape[1]):
-				#indexes, metrics = w2v_model.cosine(sampled_y[0][i])
-				tree = spatial.KDTree(w2v_model.vectors)		
+				# kd-tree for quick nearest-neighbor lookup
+				tree = spatial.KDTree(w2v_model.vectors)							
 				result = w2v_model.vectors[tree.query(sampled_y[0][i])[1]]
-				print(result)
 				word_prediction = ""
 				for w in w2v_model.vocab:
 					if (w2v_model[w]==result).all() :
 						print(w)
 						word_prediction = w
 
-				phrase += str(word_prediction)	
+				phrase += str(word_prediction)
+				phrase += " "	
 
 		# print("[OUTPUT] Phrase 1: " + str(phrase))
 		# queue = index_to_word[max_index]
