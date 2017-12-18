@@ -77,7 +77,6 @@ class HaikuGeneratorLSTM:
 
 					for i in range(0,len_diff):
 						seq_out_split.append("stop")
-
 					
 					try:
 						X[0][0] = w2v_model[seq_in]
@@ -256,7 +255,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=5000, epochs=1, verbose=1,callbacks=callbacks_list) # steps_per_epoch
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=5000, epochs=1, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
@@ -326,7 +325,6 @@ class HaikuGeneratorLSTM:
 				# sample = sampled_y[0][i]/np.abs(sampled_y[0][i].max()) # RESCALE TO -1 to 1 from 0 to 1..
  				# sample = sample*2 - 1				
 				# print(sample)
-
 				tree = spatial.KDTree(w2v_model.vectors)							
 				result = w2v_model.vectors[tree.query(sample)[1]]
 				word_prediction = ""
