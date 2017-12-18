@@ -81,18 +81,17 @@ class HaikuGeneratorLSTM:
 					try:
 						X[0][0] = w2v_model[seq_in]
 					except:
-						#print("\nWord not modeled in input: " + str(seq_in))
+						# print("\nWord not modeled in input: " + str(seq_in))
 						continue
 					for idx, word in enumerate(seq_out_split):				
 						try:
 							y[0][idx] = w2v_model[word]	
 						except: 
-							#print("Word not modeled in target: " + str(word))
-							continue
+							# print("Word not modeled in target: " + str(word))
+							break
 
 				self.X = X
 				self.y = y
-
 				yield (X, y)
 
 
@@ -220,17 +219,32 @@ class HaikuGeneratorLSTM:
 		model.add(Dropout(0.2))
 		# model.add(Dense(n_unique_words, activation='softmax'))
 		# model.add(RepeatVector(len_longest_phrase))
-		model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(256, len_longest_phrase+1)))
-
+		if embedding == 'onehot':
+			model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(256, len_longest_phrase+1)))
+		elif embedding == 'word2vec':
+			model.add(TimeDistributed(Dense(in_shape[1], activation='linear'), input_shape=(256, len_longest_phrase+1)))
+	
 		# Experimental (inputs (*, ))
+		# model.add(LSTM(256, input_shape=in_shape, return_sequences=True))
+		# model.add(Dropout(0.2))
+		# model.add(LSTM(256))
+		# model.add(Dropout(0.2))		
+		# # model.add(Dense(n_unique_words, activation='softmax'))
+		# # model.add(RepeatVector(len_longest_phrase))
+		# if embedding == 'onehot':
+		# 	model.add(Dense(in_shape[1], activation='softmax'))
+		# elif embedding == 'word2vec':
+		# 	model.add(Dense(in_shape[1], activation='softmax'))
 		
-
 		print("[TRAINING][DEBUG] Model summary: ")
 		model.summary()
 		print("[TRAINING][DEBUG] Inputs: {}".format(model.input_shape))
 		print("[TRAINING][DEBUG] Outputs: {}".format(model.output_shape))
 
-		model.compile(loss='categorical_crossentropy', optimizer='adam')
+		if embedding == 'onehot':
+			model.compile(loss='categorical_crossentropy', optimizer='adam')
+		elif embedding == 'word2vec':
+			model.compile(loss='mean_squared_error', optimizer='adam')
 
 		if(train):
 
@@ -241,7 +255,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=50, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=100, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
@@ -301,11 +315,13 @@ class HaikuGeneratorLSTM:
 				phrase += str(index_to_word[max_index])
 				phrase += " "
 		
-		elif embedding == 'word2vec':
+		elif embedding == 'word2vec': 
 			for i in range(0, sampled_y.shape[1]):
 				# kd-tree for quick nearest-neighbor lookup
+				sample = sampled_y[0][i]/np.abs(sampled_y[0][i].max()) # RESCALE TO -1 to 1 from 0 to 1..
+				sample = sample*2 - 1				
 				tree = spatial.KDTree(w2v_model.vectors)							
-				result = w2v_model.vectors[tree.query(sampled_y[0][i])[1]]
+				result = w2v_model.vectors[tree.query(sample)[1]]
 				word_prediction = ""
 				for w in w2v_model.vocab:
 					if (w2v_model[w]==result).all() :
