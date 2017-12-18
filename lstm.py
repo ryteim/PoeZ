@@ -54,16 +54,15 @@ class HaikuGeneratorLSTM:
 
 					seq_in = wp[0]
 					seq_out = wp[1]
-					finalIdx = 0
-					X[0][0][word_to_index[seq_in]] = 1
-					for idx, word in enumerate(seq_out.split()):				
-						y[0][idx][word_to_index[word]] = 1
-						finalIdx = idx
+					seq_out_split = seq_out.split()
+					len_diff = (len_longest_phrase+1) - len(seq_out_split)
 
-					finalIdx = finalIdx + 1
-					while(finalIdx < len_longest_phrase):
-						y[0][finalIdx][word_to_index['\n']] = 1
-						finalIdx += 1
+					for i in range(0,len_diff):
+						seq_out_split.append("STOP")
+
+					X[0][0][word_to_index[seq_in]] = 1
+					for idx, word in enumerate(seq_out_split):				
+						y[0][idx][word_to_index[word]] = 1
 
 				elif embedding == 'word2vec':
 					
@@ -73,13 +72,18 @@ class HaikuGeneratorLSTM:
 
 					seq_in = wp[0]
 					seq_out = wp[1]
+					seq_out_split = seq_out.split()
+					len_diff = (len_longest_phrase+1) - len(seq_out_split)
+
+					for i in range(0,len_diff):
+						seq_out_split.append("STOP")
 					
 					try:
 						X[0][0] = w2v_model[seq_in]
 					except:
 						#print("\nWord not modeled in input: " + str(seq_in))
 						continue
-					for idx, word in enumerate(seq_out.split()):				
+					for idx, word in enumerate(seq_out_split):				
 						try:
 							y[0][idx] = w2v_model[word]	
 						except: 
@@ -92,23 +96,16 @@ class HaikuGeneratorLSTM:
 				yield (X, y)
 
 
-	# def clean(self, words, sentOrWord=0):
 
-	# 	if sentOrWord == 0:
-	# 		words = words.replace('.', '')
-	# 		words = words.replace(',', '')
-	# 		words = words.replace(';', '')
-	# 		words = words.replace(':', '')
-	# 		return words
-	# 	elif sentOrWord == 1:
-	# 		wordsUpdated = []
-	# 		for w in words:
-	# 			w = w.replace('.', '')
-	# 			w = w.replace(',', '')
-	# 			w = w.replace(';', '')
-	# 			w = w.replace(':', '')
-	# 			wordsUpdated.append(w)
-	# 		return wordsUpdated
+	def clean(self,tokens):
+		filtered_tokens = [word for word in tokens if word not in ["|", "'", ".", "!", "?", "-", "''", ",", "``", "(", ")", "[", "]", "--", "...", "....", "..", ";", ":"]]
+		filtered_tokens = [word for word in filtered_tokens if word not in ["'ll", "'m", "'d", "'re", "'ve", "'s", "n't", "ca"]]
+		filtered_tokens = [word.strip() for word in filtered_tokens]	# remove all whitespace from each word (before and after)
+		filtered_tokens = [word.strip('.') for word in filtered_tokens]	# remove all whitespace from each word (before and after)
+		filtered_tokens = [word.strip("'") for word in filtered_tokens]	# remove all whitespace from each word (before and after)
+		filtered_tokens = [word.strip('"') for word in filtered_tokens]	# remove all whitespace from each word (before and after)
+					
+		return filtered_tokens
 
 
 
@@ -116,8 +113,7 @@ class HaikuGeneratorLSTM:
 	def train_word_lvl(self, embedding, train=True):
 		# load ascii text and convert to lowercase
 		raw_text = open(self.td, 'r').readlines()
-		raw_text = [row.lower() for row in raw_text]
-		
+		raw_text = [row.lower() for row in raw_text]	
 		# df = pd.read_csv(self.td, names=['word1', 'phrase1', 'word2', 'phrase2', 'word3', 'phrase3'], headers=None)
 				
 		# create mapping of unique chars to integers
@@ -126,18 +122,19 @@ class HaikuGeneratorLSTM:
 		exclude = set(string.punctuation)
 		for row in raw_text:			
 			row_words = row.split(',')							# split by comma
-			# row_words = [word.strip() for word in row_words]	# remove all whitespace from each word (before and after)
+			row_words = self.clean(row_words)
 			# row_words = ''.join(ch for ch in row_words if ch not in exclude)
 			# word1 = self.clean(row_words[0], 0)
 			# word2 = self.clean(row_words[2], 0)			
 			# word3 = self.clean(row_words[4], 0)
+			# print(row_words)
 			word1 = row_words[0]
 			word2 = row_words[2]		
 			word3 = row_words[4]
 			phrase1_words = row_words[1].split()
 			phrase2_words = row_words[3].split()
 			phrase3_words = row_words[5].split()
-			all_words.extend([word1, word2, word3, u"\n"])
+			all_words.extend([word1, word2, word3, "STOP"])
 			all_words.extend(phrase1_words)
 			all_words.extend(phrase2_words)
 			all_words.extend(phrase3_words)
@@ -212,6 +209,8 @@ class HaikuGeneratorLSTM:
 		elif embedding == 'word2vec':
 			in_shape = (1, w2v_model.vectors.shape[1])		
 		model = Sequential()
+
+		# Working
 		model.add(LSTM(256, input_shape=in_shape, return_sequences=True))
 		model.add(Dropout(0.2))
 		model.add(LSTM(256))
@@ -221,7 +220,10 @@ class HaikuGeneratorLSTM:
 		model.add(Dropout(0.2))
 		# model.add(Dense(n_unique_words, activation='softmax'))
 		# model.add(RepeatVector(len_longest_phrase))
-		model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(512, len_longest_phrase+1)))
+		model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(256, len_longest_phrase+1)))
+
+		# Experimental (inputs (*, ))
+		
 
 		print("[TRAINING][DEBUG] Model summary: ")
 		model.summary()
@@ -239,7 +241,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=50, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=10, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
