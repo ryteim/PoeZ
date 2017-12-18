@@ -58,7 +58,7 @@ class HaikuGeneratorLSTM:
 					len_diff = (len_longest_phrase+1) - len(seq_out_split)
 
 					for i in range(0,len_diff):
-						seq_out_split.append("STOP")
+						seq_out_split.append("stop")
 
 					X[0][0][word_to_index[seq_in]] = 1
 					for idx, word in enumerate(seq_out_split):				
@@ -76,7 +76,7 @@ class HaikuGeneratorLSTM:
 					len_diff = (len_longest_phrase+1) - len(seq_out_split)
 
 					for i in range(0,len_diff):
-						seq_out_split.append("STOP")
+						seq_out_split.append("stop")
 					
 					try:
 						X[0][0] = w2v_model[seq_in]
@@ -134,7 +134,7 @@ class HaikuGeneratorLSTM:
 			phrase1_words = row_words[1].split()
 			phrase2_words = row_words[3].split()
 			phrase3_words = row_words[5].split()
-			all_words.extend([word1, word2, word3, "STOP"])
+			all_words.extend([word1, word2, word3, "stop"])
 			all_words.extend(phrase1_words)
 			all_words.extend(phrase2_words)
 			all_words.extend(phrase3_words)
@@ -241,7 +241,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=10, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=1000, epochs=50, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
