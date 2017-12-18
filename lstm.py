@@ -91,8 +91,8 @@ class HaikuGeneratorLSTM:
 							# print("Word not modeled in target: " + str(word))
 							break
 
-				self.X = X
-				self.y = y
+				# self.X.append(X)
+				# self.y.append(y)
 				yield (X, y)
 
 
@@ -256,10 +256,13 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=100, epochs=50, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=5000, epochs=1, verbose=1,callbacks=callbacks_list) # steps_per_epoch
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
+			loss = model.evaluate_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), 50, workers=1)
+			print("LOSS: " + str(loss))
+			print(model.metrics_names)
 
 			print("[TRAINING] Done.")
 
@@ -281,7 +284,7 @@ class HaikuGeneratorLSTM:
 		index_to_word = self.index_to_word	
 		X = self.X
 		y = self.y	
-		
+
 		if embedding == 'onehot':
 			queue_x = np.zeros((1, 1, self.n_unique_words))
 			try: 				
@@ -319,14 +322,17 @@ class HaikuGeneratorLSTM:
 		elif embedding == 'word2vec': 
 			for i in range(0, sampled_y.shape[1]):
 				# kd-tree for quick nearest-neighbor lookup
-				sample = sampled_y[0][i]/np.abs(sampled_y[0][i].max()) # RESCALE TO -1 to 1 from 0 to 1..
- 				sample = sample*2 - 1				
+				sample = sampled_y[0][i]
+				# sample = sampled_y[0][i]/np.abs(sampled_y[0][i].max()) # RESCALE TO -1 to 1 from 0 to 1..
+ 				# sample = sample*2 - 1				
+				# print(sample)
+
 				tree = spatial.KDTree(w2v_model.vectors)							
 				result = w2v_model.vectors[tree.query(sample)[1]]
 				word_prediction = ""
 				for w in w2v_model.vocab:
 					if (w2v_model[w]==result).all() :
-						print(w)
+						# print(w)
 						word_prediction = w
 
 				phrase += str(word_prediction)
