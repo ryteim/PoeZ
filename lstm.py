@@ -222,7 +222,7 @@ class HaikuGeneratorLSTM:
 		if embedding == 'onehot':
 			model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(256, len_longest_phrase+1)))
 		elif embedding == 'word2vec':
-			model.add(TimeDistributed(Dense(in_shape[1], activation='linear'), input_shape=(256, len_longest_phrase+1)))
+			model.add(TimeDistributed(Dense(in_shape[1], activation='tanh'), input_shape=(256, len_longest_phrase+1)))
 	
 		# Experimental (inputs (*, ))
 		# model.add(LSTM(256, input_shape=in_shape, return_sequences=True))
@@ -255,7 +255,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=2500, epochs=50, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=5000, epochs=20, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
@@ -314,7 +314,7 @@ class HaikuGeneratorLSTM:
 				for j, index in enumerate(indices):
 					phrase2 += str(index_to_word[index])
 					phrase2 += " "
-				# print(phrase2)
+				print(phrase2)
 				phrase += str(index_to_word[max_index])
 				phrase += " "
 		
