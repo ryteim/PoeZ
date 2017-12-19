@@ -1,0 +1,165 @@
+WORD2VEC-based RNN Output (mean_level 0):
+
+sky:
+sky sky ride
+slabs plating bounce
+flagpole logan airport 
+
+snow:
+rain rain drop
+balderus sweat
+the flowering steer
+
+high:
+the downward drop
+me crying alia
+me everybody everybody
+
+king:
+dead dying siona
+heaven heaven 
+widespread_corruption havoc
+
+queen:
+dead bride siona
+cervix cervix
+balderus pacing
+
+house:
+the door door
+bacall rushes
+straight blade kick
+
+music:
+the swing
+clogged clogged
+feedback feedback
+
+autumn:
+autumn afternoon
+costumes stunts
+baldrick blonde t-shirt
+
+artist:
+a t-shirt punch
+bacall davy_crockett pacing
+submission submission
+
+ocean:
+flowing flowing
+something wrong sight
+me me everybody
+
+brave:
+love yours cry
+approval duty
+sweat sweat
+
+-------------------------------------------------------------
+WORD2VEC-based RNN output (tanh) (mean level 0):
+
+light:
+the sky downward
+halloween afternoon
+scraped_off forearms
+
+------------------------------------------------------------
+WORD2VEC-based 512 output (mean level 2.7):
+light (autumn, october):
+the rotation cue_ball
+autumn autumn
+saturday morning
+
+---------------------------------------------------------
+WORD2VEC-based output (mean level 2.7):
+
+breeze (howls, drizzle):
+stratosphere shower
+balderus right shoulder
+cervix osmotic
+
+winter (almost, spring):
+winter winter
+falling falling 
+spring winter
+
+rain (breeze, soft):
+rain rain
+stratosphere shower
+vagina smoke smoke
+
+plant (root, obsolete):
+sediment digging digging
+the vagina thrower 
+conditional jumps unusable
+
+flower ( subjects, snatched):
+bulging crab claw 
+apprehension vices
+bulging grabs
+
+hill (table, picnic):
+the flagpole ride
+the scrimmage
+pavement piste
+
+dance (sing, cook)
+walking skirt
+me everybody everbody 
+sheeana veronica shouting
+
+beauty (colors, sparse):
+love dreams sight
+the grooves backs
+pearlite clogged
+
+coffee (tea, mugs):
+nectar boiled smoke
+nectar boiled smoke
+buling rushes bleed
+
+elegant (expertise, consternation):
+subtle disturbing
+integrity enjoyment
+balderus toil
+
+dusk (frost, sickle):
+afternoon afternoon
+rain shower bounce
+bulding undercoat bounce
+
+
+motion (rib, knowledge):
+the cue_ball 
+the boar pinch
+necessity necessity
+
+woman (men, homeless):
+the boy baby
+dead guests
+desolate nests
+
+actor (monk, impulsive):
+a kid tshirt
+the best friend waiter
+balderus pacing
+
+men (boys, who):
+dead guests 
+dead dresses ride
+trouble sick
+
+love (words, make):
+love love love
+something something
+you someone touch
+
+movie (star, wars):
+the punch ride
+the sky ride
+the crushing 
+
+water (hot, cold):
+sunlight sunlight drop
+rain rain smoke (hot cold antonyms result in same sentence)
+rain rain smoke
