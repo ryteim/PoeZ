@@ -384,7 +384,7 @@ if __name__ == '__main__':
 		lstm_NN.train_word_lvl(embedding, train=False)
 
 		# topics = expand.expand(str(query), 'glove_haiku_50')	
-		topics = expand.expand(str(query), 'glove_poem_pair_50')
+		topics = expand.expand(str(query), 'glove_poem_pair_50', mean_level=2.7)
 		print("[OUTPUT] Topics: ")
 		print(topics)
 		q2 = topics[1]
