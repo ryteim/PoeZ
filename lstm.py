@@ -17,6 +17,30 @@ from keras.utils import np_utils
 import expand
 import word2vec
 
+class Glove:
+	def __init__(self, training_file):
+		self.training_file = training_file
+		self.vectors = []
+		self.vocab = []
+		self.model = dict()
+		self.load_glove(training_file)
+
+	def load_glove(self, training_file):
+		raw = open(training_file, 'r').readlines()
+		
+		for line in raw:			
+			split_line = line.split(' ')
+			word = split_line[0]
+			vector = split_line[1:]
+			vector = [float(val) for val in vector]
+			vector = np.array(vector)
+			
+			self.vocab.append(word)
+			self.vectors.append(vector)
+			self.model[word] = vector
+			
+		return
+
 
 class HaikuGeneratorLSTM:
 	def __init__(self, td_filename, nw_filename):
@@ -29,6 +53,7 @@ class HaikuGeneratorLSTM:
 		self.index_to_word = None
 		self.n_unique_words = None
 
+
 	def TextDataGenerator(self, word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding):
 		# Setup up input and output pairs:
 		# Want input: word
@@ -38,6 +63,8 @@ class HaikuGeneratorLSTM:
 		
 		# load word2vec model
 		w2v_model = word2vec.load('./word2vec_training/text8.bin')
+		glove_model = Glove('./glove_training/all_words.glove.100.txt')
+
 
 		while 1:
 
@@ -90,6 +117,31 @@ class HaikuGeneratorLSTM:
 							# print("Word not modeled in target: " + str(word))
 							break
 
+				elif embedding == 'glove':
+					X = np.zeros((len(wp), 1, glove_model.vectors[0].shape[0]))
+					y = np.zeros((len(wp), len_longest_phrase+1, glove_model.vectors[0].shape[0]))
+
+
+					seq_in = wp[0]
+					seq_out = wp[1]
+					seq_out_split = seq_out.split()
+					len_diff = (len_longest_phrase+1) - len(seq_out_split)
+
+					for i in range(0,len_diff):
+						seq_out_split.append("<ENDLINE>")
+					
+					try:
+						X[0][0] = glove_model.model[seq_in]
+					except:
+						# print("\nWord not modeled in input: " + str(seq_in))
+						continue
+					for idx, word in enumerate(seq_out_split):				
+						try:
+							y[0][idx] = glove_model.model[word]	
+						except: 
+							# print("Word not modeled in target: " + str(word))
+							break
+
 				# self.X.append(X)
 				# self.y.append(y)
 				yield (X, y)
@@ -133,7 +185,7 @@ class HaikuGeneratorLSTM:
 			phrase1_words = row_words[1].split()
 			phrase2_words = row_words[3].split()
 			phrase3_words = row_words[5].split()
-			all_words.extend([word1, word2, word3, "stop"])
+			all_words.extend([word1, word2, word3, "stop", "<ENDLINE>"])
 			all_words.extend(phrase1_words)
 			all_words.extend(phrase2_words)
 			all_words.extend(phrase3_words)
@@ -152,6 +204,7 @@ class HaikuGeneratorLSTM:
 		# summarize the loaded data
 		# load word2vec model
 		w2v_model = word2vec.load('./word2vec_training/text8.bin')
+		glove_model = Glove('./glove_training/all_words.glove.100.txt')
 		n_unique_words = len(words)
 		self.n_unique_words = n_unique_words
 		n_words = len(all_words)
@@ -206,7 +259,9 @@ class HaikuGeneratorLSTM:
 		if embedding == 'onehot': 
 			in_shape = (1, n_unique_words)
 		elif embedding == 'word2vec':
-			in_shape = (1, w2v_model.vectors.shape[1])		
+			in_shape = (1, w2v_model.vectors.shape[1])
+		elif embedding == 'glove':
+			in_shape = (1, 100)		
 		model = Sequential()
 
 		# Working
@@ -223,6 +278,8 @@ class HaikuGeneratorLSTM:
 			model.add(TimeDistributed(Dense(in_shape[1], activation='softmax'), input_shape=(256, len_longest_phrase+1)))
 		elif embedding == 'word2vec':
 			model.add(TimeDistributed(Dense(in_shape[1], activation='tanh'), input_shape=(256, len_longest_phrase+1)))
+		elif embedding == 'glove':
+			model.add(TimeDistributed(Dense(in_shape[1], activation='linear'), input_shape=(256, len_longest_phrase+1)))
 	
 		# Experimental (inputs (*, ))
 		# model.add(LSTM(256, input_shape=in_shape, return_sequences=True))
@@ -245,7 +302,9 @@ class HaikuGeneratorLSTM:
 			model.compile(loss='categorical_crossentropy', optimizer='adam')
 		elif embedding == 'word2vec':
 			model.compile(loss='mean_squared_error', optimizer='adam')
-
+		elif embedding == 'glove':
+			model.compile(loss='mean_squared_error', optimizer='adam')
+		
 		if(train):
 
 			# define the checkpoint
@@ -255,7 +314,7 @@ class HaikuGeneratorLSTM:
 			callbacks_list = [checkpoint]
 
 			# fit the model
-			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=5000, epochs=20, verbose=1,callbacks=callbacks_list)
+			model.fit_generator(self.TextDataGenerator(word_phrase_pairs, len_longest_phrase, n_unique_words, word_to_index, embedding), steps_per_epoch=500, epochs=50, verbose=1,callbacks=callbacks_list)
 			# model.fit(X, y, epochs=50, batch_size=32, callbacks=callbacks_list)
 			model.save_weights(self.nw_path + ".hdf5", overwrite=True)
 			self.model = model
@@ -278,6 +337,7 @@ class HaikuGeneratorLSTM:
 
 	def sample_word_lvl(self, queue, embedding):
 		w2v_model = word2vec.load('./word2vec_training/text8.bin')
+		glove_model = Glove('./glove_training/all_words.glove.100.txt')
 		model = self.model
 		word_to_index = self.word_to_index
 		index_to_word = self.index_to_word	
@@ -300,6 +360,14 @@ class HaikuGeneratorLSTM:
 			except Exception as e:
 				print("[ERROR] " + str(e))
 				print("[ERROR] No equivalent in word2vec.")
+				return
+		elif embedding == 'glove':
+			queue_x = np.zeros((1,1, glove_model.vectors[0].shape[0]))
+			try:
+				queue_x[0][0] = glove_model.model[queue]
+			except Exception as e:
+				print("[ERROR] " + str(e))
+				print("[ERROR] No equivalent in glvoe.")
 				return
 
 		sampled_y = model.predict(queue_x, verbose=0)
@@ -333,9 +401,23 @@ class HaikuGeneratorLSTM:
 						# print(w)
 						word_prediction = w
 
-				phrase += str(word_prediction)
-				phrase += " "	
+				if(word_prediction != "stop"):
+					phrase += str(word_prediction)
+					phrase += " "
 
+		elif embedding == 'glove':
+			for i in range(0, sampled_y.shape[1]):
+				sample = sampled_y[0][i]
+				tree = spatial.KDTree(glove_model.vectors)
+				result = glove_model.vectors[tree.query(sample)[1]]
+				word_prediction = ""
+				for w in glove_model.vocab:
+					if(glove_model.model[w]==result).all():
+						word_prediction = w
+				if(word_prediction != "<ENDLINE>"):
+					phrase += str(word_prediction)
+					phrase += " "	
+					
 		# print("[OUTPUT] Phrase 1: " + str(phrase))
 		# queue = index_to_word[max_index]
 		# print("[OUTPUT] New Queue: " + str(queue))
@@ -365,7 +447,7 @@ def sample_poem(query, mean=2.7):
 	# print(p3)
 	topics_generated = q1 + ", " + q2 + ", " + q3
 	poem = p1 + ", " + p2 + ", " + p3
-	summary = query + " | " + topics_generated + " | " + poem	
+	summary = query.strip() + " | " + topics_generated + " | " + poem + "\n"	
 
 	return poem, summary
 
@@ -373,8 +455,8 @@ if __name__ == '__main__':
 
 	# terminal argument parser
 	ap = argparse.ArgumentParser()
-	list_of_modes = ['train', 'sample']
-	list_of_embeddings = ['word2vec', 'onehot']
+	list_of_modes = ['train', 'sample', 'sample_file']
+	list_of_embeddings = ['word2vec', 'onehot', 'glove']
 	#ap.add_argument("-m", "--method", required=False, help="Method to use for WSD. Default = wordnet.", default="wordnet", choices = list_of_methods)
 	ap.add_argument("-d", "--data", required=False, help="Training data corpus to train on.", default="all_words-wordnet.txt")
 	ap.add_argument("-nw", "--network-weights", required=True, help="Filename selected for saving the network weights.")
@@ -407,4 +489,25 @@ if __name__ == '__main__':
 		poem, summary = sample_poem(query, 2.7)
 		print("[OUTPUT] Final poem: ")
 		print(poem)
+	elif mode == 'sample_file':
+		lstm_NN.train_word_lvl(embedding, train=False)
+	
+		queryFileName = query
+		queries = open(queryFileName, 'r').readlines()
+		queries = [row.lower() for row in queries]	
 		
+		# create mapping of unique chars to integers
+		outputFile = open("output1.5_singleinput.txt", 'a')
+		for idx, query in enumerate(queries):			
+						
+			try:
+				poem, summary = sample_poem(query, 1.5)
+				outputFile.write(summary)
+				print("[OUTPUT] Wrote to output file.")
+			except:
+				pass
+
+			print(idx)
+			if idx == 100:
+				break
+		outputFile.close()
