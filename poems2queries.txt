@@ -1,0 +1,25 @@
+WORD2VEC-based output (mean level 2.7):
+blue sky (blue, sky, lovely):
+red pink collar 
+sky sky ride
+rage lovely shouting
+
+red wedding (red, wedding, white):
+red pink collar
+wedding wedding
+red pink shirt
+
+gold star (gold, star, red):
+pearlite feathers
+the sky ride
+red pink collar
+
+brave warrior (brave, warrior, plight):
+love yours cry
+dead rage shouting
+flexing pacing
+
+clean beach (clean, beach, home):
+smoke smoke 
+mound trail
+guests ride
