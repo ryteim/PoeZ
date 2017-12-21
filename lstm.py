@@ -387,10 +387,11 @@ if __name__ == '__main__':
 		topics = expand.expand(str(query), 'glove_poem_pair_50', mean_level=2.7)
 		print("[OUTPUT] Topics: ")
 		print(topics)
+		q1 = topics[0]
 		q2 = topics[1]
 		q3 = topics[2]
 
-		p1 = lstm_NN.sample_word_lvl(query, embedding)
+		p1 = lstm_NN.sample_word_lvl(q1, embedding)
 		p2 = lstm_NN.sample_word_lvl(q2, embedding)
 		p3 = lstm_NN.sample_word_lvl(q3, embedding)
 		print("[OUTPUT] Final poem: ")
