@@ -163,3 +163,18 @@ water (hot, cold):
 sunlight sunlight drop
 rain rain smoke (hot cold antonyms result in same sentence)
 rain rain smoke
+
+water (from, land):
+sunlight sunlight drop
+falling sight 
+rest sight
+
+shadows (casts, branches):
+walking tears
+bulging flashes bounce
+the narrow streets backs
+
+depth (hilltop, founded):
+the rotation
+twin towers overhanging steer
+town hall precinct
