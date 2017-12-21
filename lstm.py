@@ -348,6 +348,27 @@ class HaikuGeneratorLSTM:
 		return '%s%s' % ("LSTM trained on: ", self.td)
 
 
+def sample_poem(query, mean=2.7):
+	# topics = expand.expand(str(query), 'glove_haiku_50')	
+	topics = expand.expand(str(query), 'glove_poem_pair_50', mean_level=mean)
+	print("[OUTPUT] Topics: ")
+	print(topics)
+	q1 = topics[0]
+	q2 = topics[1]
+	q3 = topics[2]
+
+	p1 = lstm_NN.sample_word_lvl(q1, embedding)
+	p2 = lstm_NN.sample_word_lvl(q2, embedding)
+	p3 = lstm_NN.sample_word_lvl(q3, embedding)
+	# print(p1)
+	# print(p2)
+	# print(p3)
+	topics_generated = q1 + ", " + q2 + ", " + q3
+	poem = p1 + ", " + p2 + ", " + p3
+	summary = query + " | " + topics_generated + " | " + poem	
+
+	return poem, summary
+
 if __name__ == '__main__':
 
 	# terminal argument parser
@@ -382,20 +403,8 @@ if __name__ == '__main__':
 		print("[SETUP] Sampling mode.")
 		print("[SETUP] Query word: " + str(query))
 		lstm_NN.train_word_lvl(embedding, train=False)
-
-		# topics = expand.expand(str(query), 'glove_haiku_50')	
-		topics = expand.expand(str(query), 'glove_poem_pair_50', mean_level=2.7)
-		print("[OUTPUT] Topics: ")
-		print(topics)
-		q2 = topics[1]
-		q3 = topics[2]
-
-		p1 = lstm_NN.sample_word_lvl(query, embedding)
-		p2 = lstm_NN.sample_word_lvl(q2, embedding)
-		p3 = lstm_NN.sample_word_lvl(q3, embedding)
+	
+		poem, summary = sample_poem(query, 2.7)
 		print("[OUTPUT] Final poem: ")
-		print(p1)
-		print(p2)
-		print(p3)
-
+		print(poem)
 		
