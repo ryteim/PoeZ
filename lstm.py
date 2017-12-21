@@ -497,11 +497,11 @@ if __name__ == '__main__':
 		queries = [row.lower() for row in queries]	
 		
 		# create mapping of unique chars to integers
-		outputFile = open("output1.5_singleinput.txt", 'a')
+		outputFile = open("output2.7_multiinput.txt", 'a')
 		for idx, query in enumerate(queries):			
 						
 			try:
-				poem, summary = sample_poem(query, 1.5)
+				poem, summary = sample_poem(query, 2.7)
 				outputFile.write(summary)
 				print("[OUTPUT] Wrote to output file.")
 			except:
