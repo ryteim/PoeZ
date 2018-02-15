@@ -222,7 +222,6 @@ class HaikuGeneratorLSTM:
 		print("[SETUP] Longest Sentence: " + str(longest_phrase))
 		
 
-		# REMOVED SHIT HERE
 		# n_words = len(all_words)
 
 		# print("[SETUP] Total # of Words: ", n_words)
@@ -253,7 +252,8 @@ class HaikuGeneratorLSTM:
 		# self.y = y
 		#print(X[0])
 		#print(y[0])    
-		# END OF REMOVED SHIT HERE
+		
+
 		print("[TRAINING] Defining the LSTM based neural network at a word level:")
 		# define the LSTM model (2-stacked lstm)
 		if embedding == 'onehot': 
